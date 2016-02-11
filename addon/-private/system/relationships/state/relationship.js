@@ -173,7 +173,9 @@ Relationship.prototype = {
     //TODO(Igor) make this less abysmally slow
     this.members = this.canonicalMembers.copy();
     for (i=0; i<newRecords.length; i++) {
-      this.members.add(newRecords[i]);
+      if (!this.members.has(newRecords[i])) {
+        this.members.add(newRecords[i]);
+      }
     }
   },
 

@@ -1,0 +1,1328 @@
+version: 1.13.12
+BuildingBuilding.Building..Built project successfully. Stored in "/home/olivier/Documents/ember/data/tmp/class-tests_dist-GZHF1BdG.tmp".
+ok 1 PhantomJS 2.1 - JSCS - modules/ember-data/-private/adapters: modules/ember-data/-private/adapters/build-url-mixin.js should pass jscs
+ok 2 PhantomJS 2.1 - JSHint - modules/ember-data/-private/adapters: modules/ember-data/-private/adapters/build-url-mixin.js should pass jshint
+ok 3 PhantomJS 2.1 - JSCS - modules/ember-data/-private/adapters: modules/ember-data/-private/adapters/errors.js should pass jscs
+ok 4 PhantomJS 2.1 - JSHint - modules/ember-data/-private/adapters: modules/ember-data/-private/adapters/errors.js should pass jshint
+ok 5 PhantomJS 2.1 - JSCS - modules/ember-data/-private: modules/ember-data/-private/adapters.js should pass jscs
+ok 6 PhantomJS 2.1 - JSHint - modules/ember-data/-private: modules/ember-data/-private/adapters.js should pass jshint
+ok 7 PhantomJS 2.1 - JSCS - modules/ember-data/-private: modules/ember-data/-private/core.js should pass jscs
+ok 8 PhantomJS 2.1 - JSHint - modules/ember-data/-private: modules/ember-data/-private/core.js should pass jshint
+ok 9 PhantomJS 2.1 - JSCS - modules/ember-data/-private: modules/ember-data/-private/debug.js should pass jscs
+ok 10 PhantomJS 2.1 - JSHint - modules/ember-data/-private: modules/ember-data/-private/debug.js should pass jshint
+ok 11 PhantomJS 2.1 - JSCS - modules/ember-data/-private/ext: modules/ember-data/-private/ext/date.js should pass jscs
+ok 12 PhantomJS 2.1 - JSHint - modules/ember-data/-private/ext: modules/ember-data/-private/ext/date.js should pass jshint
+ok 13 PhantomJS 2.1 - JSCS - modules/ember-data/-private: modules/ember-data/-private/features.js should pass jscs
+ok 14 PhantomJS 2.1 - JSHint - modules/ember-data/-private: modules/ember-data/-private/features.js should pass jshint
+ok 15 PhantomJS 2.1 - JSCS - modules/ember-data/-private/initializers: modules/ember-data/-private/initializers/data-adapter.js should pass jscs
+ok 16 PhantomJS 2.1 - JSHint - modules/ember-data/-private/initializers: modules/ember-data/-private/initializers/data-adapter.js should pass jshint
+ok 17 PhantomJS 2.1 - JSCS - modules/ember-data/-private/initializers: modules/ember-data/-private/initializers/store-injections.js should pass jscs
+ok 18 PhantomJS 2.1 - JSHint - modules/ember-data/-private/initializers: modules/ember-data/-private/initializers/store-injections.js should pass jshint
+ok 19 PhantomJS 2.1 - JSCS - modules/ember-data/-private/initializers: modules/ember-data/-private/initializers/store.js should pass jscs
+ok 20 PhantomJS 2.1 - JSHint - modules/ember-data/-private/initializers: modules/ember-data/-private/initializers/store.js should pass jshint
+ok 21 PhantomJS 2.1 - JSCS - modules/ember-data/-private/initializers: modules/ember-data/-private/initializers/transforms.js should pass jscs
+ok 22 PhantomJS 2.1 - JSHint - modules/ember-data/-private/initializers: modules/ember-data/-private/initializers/transforms.js should pass jshint
+ok 23 PhantomJS 2.1 - JSCS - modules/ember-data/-private/instance-initializers: modules/ember-data/-private/instance-initializers/initialize-store-service.js should pass jscs
+ok 24 PhantomJS 2.1 - JSHint - modules/ember-data/-private/instance-initializers: modules/ember-data/-private/instance-initializers/initialize-store-service.js should pass jshint
+ok 25 PhantomJS 2.1 - JSCS - modules/ember-data/-private/serializers: modules/ember-data/-private/serializers/embedded-records-mixin.js should pass jscs
+ok 26 PhantomJS 2.1 - JSHint - modules/ember-data/-private/serializers: modules/ember-data/-private/serializers/embedded-records-mixin.js should pass jshint
+ok 27 PhantomJS 2.1 - JSCS - modules/ember-data/-private: modules/ember-data/-private/serializers.js should pass jscs
+ok 28 PhantomJS 2.1 - JSHint - modules/ember-data/-private: modules/ember-data/-private/serializers.js should pass jshint
+ok 29 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/clone-null.js should pass jscs
+ok 30 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/clone-null.js should pass jshint
+ok 31 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/coerce-id.js should pass jscs
+ok 32 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/coerce-id.js should pass jshint
+ok 33 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/container-proxy.js should pass jscs
+ok 34 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/container-proxy.js should pass jshint
+ok 35 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/debug: modules/ember-data/-private/system/debug/debug-adapter.js should pass jscs
+ok 36 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/debug: modules/ember-data/-private/system/debug/debug-adapter.js should pass jshint
+ok 37 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/debug: modules/ember-data/-private/system/debug/debug-info.js should pass jscs
+ok 38 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/debug: modules/ember-data/-private/system/debug/debug-info.js should pass jshint
+ok 39 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/debug.js should pass jscs
+ok 40 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/debug.js should pass jshint
+ok 41 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/empty-object.js should pass jscs
+ok 42 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/empty-object.js should pass jshint
+ok 43 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/is-array-like.js should pass jscs
+ok 44 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/is-array-like.js should pass jshint
+ok 45 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/many-array.js should pass jscs
+ok 46 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/many-array.js should pass jshint
+ok 47 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/model: modules/ember-data/-private/system/model/attr.js should pass jscs
+ok 48 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/model: modules/ember-data/-private/system/model/attr.js should pass jshint
+ok 49 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/model/errors: modules/ember-data/-private/system/model/errors/invalid.js should pass jscs
+ok 50 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/model/errors: modules/ember-data/-private/system/model/errors/invalid.js should pass jshint
+ok 51 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/model: modules/ember-data/-private/system/model/errors.js should pass jscs
+ok 52 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/model: modules/ember-data/-private/system/model/errors.js should pass jshint
+ok 53 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/model: modules/ember-data/-private/system/model/internal-model.js should pass jscs
+ok 54 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/model: modules/ember-data/-private/system/model/internal-model.js should pass jshint
+ok 55 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/model: modules/ember-data/-private/system/model/model.js should pass jscs
+ok 56 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/model: modules/ember-data/-private/system/model/model.js should pass jshint
+ok 57 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/model: modules/ember-data/-private/system/model/states.js should pass jscs
+ok 58 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/model: modules/ember-data/-private/system/model/states.js should pass jshint
+ok 59 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/model.js should pass jscs
+ok 60 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/model.js should pass jshint
+ok 61 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/normalize-link.js should pass jscs
+ok 62 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/normalize-link.js should pass jshint
+ok 63 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/normalize-model-name.js should pass jscs
+ok 64 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/normalize-model-name.js should pass jshint
+ok 65 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/ordered-set.js should pass jscs
+ok 66 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/ordered-set.js should pass jshint
+ok 67 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/promise-proxies.js should pass jscs
+ok 68 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/promise-proxies.js should pass jshint
+ok 69 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/record-array-manager.js should pass jscs
+ok 70 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/record-array-manager.js should pass jshint
+ok 71 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/record-arrays: modules/ember-data/-private/system/record-arrays/adapter-populated-record-array.js should pass jscs
+ok 72 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/record-arrays: modules/ember-data/-private/system/record-arrays/adapter-populated-record-array.js should pass jshint
+ok 73 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/record-arrays: modules/ember-data/-private/system/record-arrays/filtered-record-array.js should pass jscs
+ok 74 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/record-arrays: modules/ember-data/-private/system/record-arrays/filtered-record-array.js should pass jshint
+ok 75 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/record-arrays: modules/ember-data/-private/system/record-arrays/record-array.js should pass jscs
+ok 76 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/record-arrays: modules/ember-data/-private/system/record-arrays/record-array.js should pass jshint
+ok 77 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/record-arrays.js should pass jscs
+ok 78 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/record-arrays.js should pass jshint
+ok 79 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/references: modules/ember-data/-private/system/references/belongs-to.js should pass jscs
+ok 80 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/references: modules/ember-data/-private/system/references/belongs-to.js should pass jshint
+ok 81 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/references: modules/ember-data/-private/system/references/has-many.js should pass jscs
+ok 82 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/references: modules/ember-data/-private/system/references/has-many.js should pass jshint
+ok 83 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/references: modules/ember-data/-private/system/references/record.js should pass jscs
+ok 84 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/references: modules/ember-data/-private/system/references/record.js should pass jshint
+ok 85 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/references: modules/ember-data/-private/system/references/reference.js should pass jscs
+ok 86 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/references: modules/ember-data/-private/system/references/reference.js should pass jshint
+ok 87 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/references.js should pass jscs
+ok 88 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/references.js should pass jshint
+ok 89 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/relationship-meta.js should pass jscs
+ok 90 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/relationship-meta.js should pass jshint
+ok 91 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/relationships: modules/ember-data/-private/system/relationships/belongs-to.js should pass jscs
+ok 92 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/relationships: modules/ember-data/-private/system/relationships/belongs-to.js should pass jshint
+ok 93 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/relationships: modules/ember-data/-private/system/relationships/ext.js should pass jscs
+ok 94 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/relationships: modules/ember-data/-private/system/relationships/ext.js should pass jshint
+ok 95 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/relationships: modules/ember-data/-private/system/relationships/has-many.js should pass jscs
+ok 96 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/relationships: modules/ember-data/-private/system/relationships/has-many.js should pass jshint
+ok 97 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/relationships/state: modules/ember-data/-private/system/relationships/state/belongs-to.js should pass jscs
+ok 98 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/relationships/state: modules/ember-data/-private/system/relationships/state/belongs-to.js should pass jshint
+ok 99 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/relationships/state: modules/ember-data/-private/system/relationships/state/create.js should pass jscs
+ok 100 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/relationships/state: modules/ember-data/-private/system/relationships/state/create.js should pass jshint
+ok 101 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/relationships/state: modules/ember-data/-private/system/relationships/state/has-many.js should pass jscs
+ok 102 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/relationships/state: modules/ember-data/-private/system/relationships/state/has-many.js should pass jshint
+ok 103 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/relationships/state: modules/ember-data/-private/system/relationships/state/relationship.js should pass jscs
+ok 104 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/relationships/state: modules/ember-data/-private/system/relationships/state/relationship.js should pass jshint
+ok 105 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/serializer.js should pass jscs
+ok 106 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/serializer.js should pass jshint
+ok 107 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/snapshot-record-array.js should pass jscs
+ok 108 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/snapshot-record-array.js should pass jshint
+ok 109 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/snapshot.js should pass jscs
+ok 110 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/snapshot.js should pass jshint
+ok 111 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/store: modules/ember-data/-private/system/store/common.js should pass jscs
+ok 112 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/store: modules/ember-data/-private/system/store/common.js should pass jshint
+ok 113 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/store: modules/ember-data/-private/system/store/container-instance-cache.js should pass jscs
+ok 114 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/store: modules/ember-data/-private/system/store/container-instance-cache.js should pass jshint
+ok 115 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/store: modules/ember-data/-private/system/store/finders.js should pass jscs
+ok 116 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/store: modules/ember-data/-private/system/store/finders.js should pass jshint
+ok 117 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/store: modules/ember-data/-private/system/store/serializer-response.js should pass jscs
+ok 118 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/store: modules/ember-data/-private/system/store/serializer-response.js should pass jshint
+ok 119 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system/store: modules/ember-data/-private/system/store/serializers.js should pass jscs
+ok 120 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system/store: modules/ember-data/-private/system/store/serializers.js should pass jshint
+ok 121 PhantomJS 2.1 - JSCS - modules/ember-data/-private/system: modules/ember-data/-private/system/store.js should pass jscs
+ok 122 PhantomJS 2.1 - JSHint - modules/ember-data/-private/system: modules/ember-data/-private/system/store.js should pass jshint
+ok 123 PhantomJS 2.1 - JSCS - modules/ember-data/-private/transforms: modules/ember-data/-private/transforms/boolean.js should pass jscs
+ok 124 PhantomJS 2.1 - JSHint - modules/ember-data/-private/transforms: modules/ember-data/-private/transforms/boolean.js should pass jshint
+ok 125 PhantomJS 2.1 - JSCS - modules/ember-data/-private/transforms: modules/ember-data/-private/transforms/date.js should pass jscs
+ok 126 PhantomJS 2.1 - JSHint - modules/ember-data/-private/transforms: modules/ember-data/-private/transforms/date.js should pass jshint
+ok 127 PhantomJS 2.1 - JSCS - modules/ember-data/-private/transforms: modules/ember-data/-private/transforms/number.js should pass jscs
+ok 128 PhantomJS 2.1 - JSHint - modules/ember-data/-private/transforms: modules/ember-data/-private/transforms/number.js should pass jshint
+ok 129 PhantomJS 2.1 - JSCS - modules/ember-data/-private/transforms: modules/ember-data/-private/transforms/string.js should pass jscs
+ok 130 PhantomJS 2.1 - JSHint - modules/ember-data/-private/transforms: modules/ember-data/-private/transforms/string.js should pass jshint
+ok 131 PhantomJS 2.1 - JSCS - modules/ember-data/-private: modules/ember-data/-private/transforms.js should pass jscs
+ok 132 PhantomJS 2.1 - JSHint - modules/ember-data/-private: modules/ember-data/-private/transforms.js should pass jshint
+ok 133 PhantomJS 2.1 - JSCS - modules/ember-data/-private: modules/ember-data/-private/utils.js should pass jscs
+ok 134 PhantomJS 2.1 - JSHint - modules/ember-data/-private: modules/ember-data/-private/utils.js should pass jshint
+ok 135 PhantomJS 2.1 - JSCS - modules/ember-data: modules/ember-data/adapter.js should pass jscs
+ok 136 PhantomJS 2.1 - JSHint - modules/ember-data: modules/ember-data/adapter.js should pass jshint
+ok 137 PhantomJS 2.1 - JSCS - modules/ember-data/adapters: modules/ember-data/adapters/json-api.js should pass jscs
+ok 138 PhantomJS 2.1 - JSHint - modules/ember-data/adapters: modules/ember-data/adapters/json-api.js should pass jshint
+ok 139 PhantomJS 2.1 - JSCS - modules/ember-data/adapters: modules/ember-data/adapters/rest.js should pass jscs
+ok 140 PhantomJS 2.1 - JSHint - modules/ember-data/adapters: modules/ember-data/adapters/rest.js should pass jshint
+ok 141 PhantomJS 2.1 - JSCS - modules/ember-data: modules/ember-data/attr.js should pass jscs
+ok 142 PhantomJS 2.1 - JSHint - modules/ember-data: modules/ember-data/attr.js should pass jshint
+ok 143 PhantomJS 2.1 - JSCS - modules/ember-data: modules/ember-data/index.js should pass jscs
+ok 144 PhantomJS 2.1 - JSHint - modules/ember-data: modules/ember-data/index.js should pass jshint
+ok 145 PhantomJS 2.1 - JSCS - modules/ember-data: modules/ember-data/model.js should pass jscs
+ok 146 PhantomJS 2.1 - JSHint - modules/ember-data: modules/ember-data/model.js should pass jshint
+ok 147 PhantomJS 2.1 - JSCS - modules/ember-data: modules/ember-data/relationships.js should pass jscs
+ok 148 PhantomJS 2.1 - JSHint - modules/ember-data: modules/ember-data/relationships.js should pass jshint
+ok 149 PhantomJS 2.1 - JSCS - modules/ember-data/serializers: modules/ember-data/serializers/json-api.js should pass jscs
+ok 150 PhantomJS 2.1 - JSHint - modules/ember-data/serializers: modules/ember-data/serializers/json-api.js should pass jshint
+ok 151 PhantomJS 2.1 - JSCS - modules/ember-data/serializers: modules/ember-data/serializers/json.js should pass jscs
+ok 152 PhantomJS 2.1 - JSHint - modules/ember-data/serializers: modules/ember-data/serializers/json.js should pass jshint
+ok 153 PhantomJS 2.1 - JSCS - modules/ember-data/serializers: modules/ember-data/serializers/rest.js should pass jscs
+ok 154 PhantomJS 2.1 - JSHint - modules/ember-data/serializers: modules/ember-data/serializers/rest.js should pass jshint
+ok 155 PhantomJS 2.1 - JSCS - modules/ember-data: modules/ember-data/setup-container.js should pass jscs
+ok 156 PhantomJS 2.1 - JSHint - modules/ember-data: modules/ember-data/setup-container.js should pass jshint
+ok 157 PhantomJS 2.1 - JSCS - modules/ember-data: modules/ember-data/store.js should pass jscs
+ok 158 PhantomJS 2.1 - JSHint - modules/ember-data: modules/ember-data/store.js should pass jshint
+ok 159 PhantomJS 2.1 - JSCS - modules/ember-data: modules/ember-data/transform.js should pass jscs
+ok 160 PhantomJS 2.1 - JSHint - modules/ember-data: modules/ember-data/transform.js should pass jshint
+ok 161 PhantomJS 2.1 - JSCS - .: app.js should pass jscs
+ok 162 PhantomJS 2.1 - JSHint - .: app.js should pass jshint
+ok 163 PhantomJS 2.1 - JSCS - .: ember-data-initializers.js should pass jscs
+ok 164 PhantomJS 2.1 - JSHint - .: ember-data-initializers.js should pass jshint
+ok 165 PhantomJS 2.1 - JSCS - helpers: helpers/async.js should pass jscs
+ok 166 PhantomJS 2.1 - JSHint - helpers: helpers/async.js should pass jshint
+ok 167 PhantomJS 2.1 - JSCS - helpers: helpers/custom-adapter.js should pass jscs
+ok 168 PhantomJS 2.1 - JSHint - helpers: helpers/custom-adapter.js should pass jshint
+ok 169 PhantomJS 2.1 - JSCS - helpers: helpers/destroy-app.js should pass jscs
+ok 170 PhantomJS 2.1 - JSHint - helpers: helpers/destroy-app.js should pass jshint
+ok 171 PhantomJS 2.1 - JSCS - helpers: helpers/module-for-acceptance.js should pass jscs
+ok 172 PhantomJS 2.1 - JSHint - helpers: helpers/module-for-acceptance.js should pass jshint
+ok 173 PhantomJS 2.1 - JSCS - helpers: helpers/resolver.js should pass jscs
+ok 174 PhantomJS 2.1 - JSHint - helpers: helpers/resolver.js should pass jshint
+ok 175 PhantomJS 2.1 - JSCS - helpers: helpers/setup-ember-dev.js should pass jscs
+ok 176 PhantomJS 2.1 - JSHint - helpers: helpers/setup-ember-dev.js should pass jshint
+ok 177 PhantomJS 2.1 - JSCS - helpers: helpers/start-app.js should pass jscs
+ok 178 PhantomJS 2.1 - JSHint - helpers: helpers/start-app.js should pass jshint
+ok 179 PhantomJS 2.1 - JSCS - helpers: helpers/store.js should pass jscs
+ok 180 PhantomJS 2.1 - JSHint - helpers: helpers/store.js should pass jshint
+ok 181 PhantomJS 2.1 - integration/adapter/build-url-mixin - BuildURLMixin with RESTAdapter: buildURL - with host and namespace
+ok 182 PhantomJS 2.1 - integration/adapter/build-url-mixin - BuildURLMixin with RESTAdapter: buildURL - with relative paths in links
+ok 183 PhantomJS 2.1 - integration/adapter/build-url-mixin - BuildURLMixin with RESTAdapter: buildURL - with absolute paths in links
+ok 184 PhantomJS 2.1 - integration/adapter/build-url-mixin - BuildURLMixin with RESTAdapter: buildURL - with absolute paths in links and protocol relative host
+ok 185 PhantomJS 2.1 - integration/adapter/build-url-mixin - BuildURLMixin with RESTAdapter: buildURL - with absolute paths in links and host is /
+ok 186 PhantomJS 2.1 - integration/adapter/build-url-mixin - BuildURLMixin with RESTAdapter: buildURL - with full URLs in links
+ok 187 PhantomJS 2.1 - integration/adapter/build-url-mixin - BuildURLMixin with RESTAdapter: buildURL - with camelized names
+ok 188 PhantomJS 2.1 - integration/adapter/build-url-mixin - BuildURLMixin with RESTAdapter: buildURL - buildURL takes a record from find
+ok 189 PhantomJS 2.1 - integration/adapter/build-url-mixin - BuildURLMixin with RESTAdapter: buildURL - buildURL takes the records from findMany
+ok 190 PhantomJS 2.1 - integration/adapter/build-url-mixin - BuildURLMixin with RESTAdapter: buildURL - buildURL takes a record from create
+ok 191 PhantomJS 2.1 - integration/adapter/build-url-mixin - BuildURLMixin with RESTAdapter: buildURL - buildURL takes a record from create to query a resolved async belongsTo relationship
+ok 192 PhantomJS 2.1 - integration/adapter/build-url-mixin - BuildURLMixin with RESTAdapter: buildURL - buildURL takes a record from update
+ok 193 PhantomJS 2.1 - integration/adapter/build-url-mixin - BuildURLMixin with RESTAdapter: buildURL - buildURL takes a record from delete
+ok 194 PhantomJS 2.1 - integration/adapter/build-url-mixin - BuildURLMixin with RESTAdapter: buildURL - with absolute namespace
+ok 195 PhantomJS 2.1 - JSCS - integration/adapter: integration/adapter/build-url-mixin-test.js should pass jscs
+ok 196 PhantomJS 2.1 - JSHint - integration/adapter: integration/adapter/build-url-mixin-test.js should pass jshint
+ok 197 PhantomJS 2.1 - integration/adapter/find_all - Finding All Records of a Type: When all records for a type are requested, the store should call the adapter's `findAll` method.
+ok 198 PhantomJS 2.1 - integration/adapter/find_all - Finding All Records of a Type: When all records for a type are requested, a rejection should reject the promise
+ok 199 PhantomJS 2.1 - integration/adapter/find_all - Finding All Records of a Type: When all records for a type are requested, records that are already loaded should be returned immediately.
+ok 200 PhantomJS 2.1 - integration/adapter/find_all - Finding All Records of a Type: When all records for a type are requested, records that are created on the client should be added to the record array.
+ok 201 PhantomJS 2.1 - integration/adapter/find_all - Finding All Records of a Type: When all records are requested, assert the payload is not blank
+ok 202 PhantomJS 2.1 - JSCS - integration/adapter: integration/adapter/find-all-test.js should pass jscs
+ok 203 PhantomJS 2.1 - JSHint - integration/adapter: integration/adapter/find-all-test.js should pass jshint
+ok 204 PhantomJS 2.1 - integration/adapter/find - Finding Records: It raises an assertion when `undefined` is passed as id (#1705)
+ok 205 PhantomJS 2.1 - integration/adapter/find - Finding Records: When a single record is requested, the adapter's find method should be called unless it's loaded.
+ok 206 PhantomJS 2.1 - integration/adapter/find - Finding Records: When a single record is requested multiple times, all .findRecord() calls are resolved after the promise is resolved
+ok 207 PhantomJS 2.1 - integration/adapter/find - Finding Records: When a single record is requested, and the promise is rejected, .findRecord() is rejected.
+ok 208 PhantomJS 2.1 - integration/adapter/find - Finding Records: When a single record is requested, and the promise is rejected, the record should be unloaded.
+ok 209 PhantomJS 2.1 - integration/adapter/find - Finding Records: When a single record is requested, and the payload is blank
+ok 210 PhantomJS 2.1 - integration/adapter/find - Finding Records: When multiple records are requested, and the payload is blank
+ok 211 PhantomJS 2.1 - JSCS - integration/adapter: integration/adapter/find-test.js should pass jscs
+ok 212 PhantomJS 2.1 - JSHint - integration/adapter: integration/adapter/find-test.js should pass jshint
+ok 213 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: find a single record
+ok 214 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: find all records with sideloaded relationships
+ok 215 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: find many records
+ok 216 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: find a single record with belongsTo link as object { related }
+ok 217 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: find a single record with belongsTo link as object { data }
+ok 218 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: find a single record with belongsTo link as object { data } (polymorphic)
+ok 219 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: find a single record with sideloaded belongsTo link as object { data }
+ok 220 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: find a single record with hasMany link as object { related }
+ok 221 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: find a single record with hasMany link as object { data }
+ok 222 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: find a single record with hasMany link as object { data } (polymorphic)
+ok 223 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: find a single record with sideloaded hasMany link as object { data }
+ok 224 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: find a single record with sideloaded hasMany link as object { data } (polymorphic)
+ok 225 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: create record
+ok 226 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: update record
+ok 227 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: update record - serialize hasMany
+ok 228 PhantomJS 2.1 - integration/adapter/json-api-adapter - JSONAPIAdapter: fetching a belongsTo relationship link that returns null
+ok 229 PhantomJS 2.1 - JSCS - integration/adapter: integration/adapter/json-api-adapter-test.js should pass jscs
+ok 230 PhantomJS 2.1 - JSHint - integration/adapter: integration/adapter/json-api-adapter-test.js should pass jshint
+ok 231 PhantomJS 2.1 - integration/adapter/queries - Queries: It raises an assertion when no type is passed
+ok 232 PhantomJS 2.1 - integration/adapter/queries - Queries: It raises an assertion when no query hash is passed
+ok 233 PhantomJS 2.1 - integration/adapter/queries - Queries: When a query is made, the adapter should receive a record array it can populate with the results of the query.
+ok 234 PhantomJS 2.1 - integration/adapter/queries - Queries: The store asserts when query is made and the adapter responses with a single record.
+ok 235 PhantomJS 2.1 - JSCS - integration/adapter: integration/adapter/queries-test.js should pass jscs
+ok 236 PhantomJS 2.1 - JSHint - integration/adapter: integration/adapter/queries-test.js should pass jshint
+ok 237 PhantomJS 2.1 - integration/adapter/record_persistence - Persisting Records: When a store is committed, the adapter's `commit` method should be called with records that have been changed.
+ok 238 PhantomJS 2.1 - integration/adapter/record_persistence - Persisting Records: When a store is committed, the adapter's `commit` method should be called with records that have been created.
+ok 239 PhantomJS 2.1 - integration/adapter/record_persistence - Persisting Records: After a created record has been assigned an ID, finding a record by that ID returns the original record.
+ok 240 PhantomJS 2.1 - integration/adapter/record_persistence - Persisting Records: when a store is committed, the adapter's `commit` method should be called with records that have been deleted.
+ok 241 PhantomJS 2.1 - integration/adapter/record_persistence - Persisting Records: An adapter can notify the store that records were updated by calling `didSaveRecords`.
+ok 242 PhantomJS 2.1 - integration/adapter/record_persistence - Persisting Records: An adapter can notify the store that records were updated and provide new data by calling `didSaveRecords`.
+ok 243 PhantomJS 2.1 - integration/adapter/record_persistence - Persisting Records: An adapter can notify the store that a record was updated by calling `didSaveRecord`.
+ok 244 PhantomJS 2.1 - integration/adapter/record_persistence - Persisting Records: An adapter can notify the store that a record was updated and provide new data by calling `didSaveRecord`.
+ok 245 PhantomJS 2.1 - integration/adapter/record_persistence - Persisting Records: An adapter can notify the store that records were deleted by calling `didSaveRecords`.
+ok 246 PhantomJS 2.1 - JSCS - integration/adapter: integration/adapter/record-persistence-test.js should pass jscs
+ok 247 PhantomJS 2.1 - JSHint - integration/adapter: integration/adapter/record-persistence-test.js should pass jshint
+ok 248 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findRecord - basic payload
+ok 249 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findRecord - passes buildURL a requestType
+ok 250 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findRecord - basic payload (with legacy singular name)
+ok 251 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findRecord - payload with sideloaded records of the same type
+ok 252 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findRecord - payload with sideloaded records of a different type
+ok 253 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findRecord - payload with an serializer-specified primary key
+ok 254 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findRecord - payload with a serializer-specified attribute mapping
+ok 255 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - an empty payload is a basic success if an id was specified
+ok 256 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - passes buildURL the requestType
+ok 257 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - a payload with a new ID and data applies the updates
+ok 258 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - a payload with a new ID and data applies the updates (with legacy singular name)
+ok 259 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - findMany doesn't overwrite owner
+ok 260 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - a serializer's primary key and attributes are consulted when building the payload
+ok 261 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - a serializer's attributes are consulted when building the payload if no id is pre-defined
+ok 262 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - a serializer's attribute mapping takes precdence over keyForAttribute when building the payload
+ok 263 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - a serializer's attribute mapping takes precedence over keyForRelationship (belongsTo) when building the payload
+ok 264 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - a serializer's attribute mapping takes precedence over keyForRelationship (hasMany) when building the payload
+ok 265 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - a record on the many side of a hasMany relationship should update relationships when data is sideloaded
+ok 266 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - sideloaded belongsTo relationships are both marked as loaded
+ok 267 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - response can contain relationships the client doesn't yet know about
+ok 268 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - relationships are not duplicated
+ok 269 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: updateRecord - an empty payload is a basic success
+ok 270 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: updateRecord - passes the requestType to buildURL
+ok 271 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: updateRecord - a payload with updates applies the updates
+ok 272 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: updateRecord - a payload with updates applies the updates (with legacy singular name)
+ok 273 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: updateRecord - a payload with sideloaded updates pushes the updates
+ok 274 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: updateRecord - a payload with sideloaded updates pushes the updates
+ok 275 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: updateRecord - a serializer's primary key and attributes are consulted when building the payload
+ok 276 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: updateRecord - hasMany relationships faithfully reflect simultaneous adds and removes
+ok 277 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: deleteRecord - an empty payload is a basic success
+ok 278 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: deleteRecord - passes the requestType to buildURL
+ok 279 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: deleteRecord - a payload with sideloaded updates pushes the updates
+ok 280 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: deleteRecord - a payload with sidloaded updates pushes the updates when the original record is omitted
+ok 281 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: deleteRecord - deleting a newly created record should not throw an error
+ok 282 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findAll - returning an array populates the array
+ok 283 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findAll - passes buildURL the requestType
+ok 284 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findAll - returning sideloaded data loads the data
+ok 285 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findAll - data is normalized through custom serializers
+ok 286 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: query - if `sortQueryParams` option is not provided, query params are sorted alphabetically
+ok 287 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: query - passes buildURL the requestType
+ok 288 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: query - if `sortQueryParams` is falsey, query params are not sorted at all
+ok 289 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: query - if `sortQueryParams` is a custom function, query params passed through that function
+ok 290 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: query - payload 'meta' is accessible on the record array
+ok 291 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: query - each record array can have it's own meta object
+ok 292 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: query - returning an array populates the array
+ok 293 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: query - returning sideloaded data loads the data
+ok 294 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: query - data is normalized through custom serializers
+ok 295 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: queryRecord - returns a single record in an object
+ok 296 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: queryRecord - returning sideloaded data loads the data
+ok 297 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: queryRecord - returning an array picks the first one but saves all records to the store
+ok 298 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: queryRecord - returning an empty array errors
+ok 299 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: queryRecord - data is normalized through custom serializers
+ok 300 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findMany - findMany uses a correct URL to access the records
+ok 301 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findMany - passes buildURL the requestType
+ok 302 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findMany - findMany does not coalesce by default
+ok 303 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findMany - returning an array populates the array
+ok 304 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findMany - returning sideloaded data loads the data
+ok 305 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findMany - a custom serializer is used if present
+ok 306 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findHasMany - returning an array populates the array
+ok 307 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findHasMany - passes buildURL the requestType
+ok 308 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findMany - returning sideloaded data loads the data
+ok 309 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findMany - a custom serializer is used if present
+ok 310 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findBelongsTo - passes buildURL the requestType
+ok 311 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: coalesceFindRequests assert.warns if the expected records are not returned in the coalesced request
+ok 312 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: groupRecordsForFindMany groups records based on their url
+ok 313 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: groupRecordsForFindMany groups records correctly when singular URLs are encoded as query params
+ok 314 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: normalizeKey - to set up _ids and _id
+ok 315 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: groupRecordsForFindMany splits up calls for large ids
+ok 316 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: groupRecordsForFindMany groups calls for small ids
+ok 317 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: calls adapter.handleResponse with the jqXHR and json
+ok 318 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: calls handleResponse with jqXHR, jqXHR.responseText, and requestData
+ok 319 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: rejects promise if DS.AdapterError is returned from adapter.handleResponse
+ok 320 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: on error appends errorThrown for sanity
+ok 321 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: on error wraps the error string in an DS.AdapterError object
+ok 322 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: error handling includes a detailed message from the server
+ok 323 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: error handling with a very long HTML-formatted payload truncates the friendly message
+ok 324 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: findAll resolves with a collection of DS.Models, not DS.InternalModels
+ok 325 PhantomJS 2.1 - integration/adapter/rest_adapter - REST Adapter: createRecord - sideloaded records are pushed to the store
+ok 326 PhantomJS 2.1 - JSCS - integration/adapter: integration/adapter/rest-adapter-test.js should pass jscs
+ok 327 PhantomJS 2.1 - JSHint - integration/adapter: integration/adapter/rest-adapter-test.js should pass jshint
+ok 328 PhantomJS 2.1 - integration/adapter/serialize - DS.Adapter integration test: serialize() is delegated to the serializer
+ok 329 PhantomJS 2.1 - JSCS - integration/adapter: integration/adapter/serialize-test.js should pass jscs
+ok 330 PhantomJS 2.1 - JSHint - integration/adapter: integration/adapter/serialize-test.js should pass jshint
+ok 331 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: Records loaded multiple times and retrieved in recordArray are ready to send state events
+ok 332 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: by default, createRecords calls createRecord once per record
+ok 333 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: by default, updateRecords calls updateRecord once per record
+ok 334 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: calling store.didSaveRecord can provide an optional hash
+ok 335 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: by default, deleteRecord calls deleteRecord once per record
+ok 336 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: by default, destroyRecord calls deleteRecord once per record without requiring .save
+ok 337 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: if an existing model is edited then deleted, deleteRecord is called on the adapter
+ok 338 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: if a deleted record errors, it enters the error state
+ok 339 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: if a created record is marked as invalid by the server, it enters an error state
+ok 340 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: allows errors on arbitrary properties on create
+ok 341 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: if a created record is marked as invalid by the server, you can attempt the save again
+ok 342 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: if a created record is marked as erred by the server, it enters an error state
+ok 343 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: if an updated record is marked as invalid by the server, it enters an error state
+ok 344 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: records can have errors on arbitrary properties after update
+ok 345 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: if an updated record is marked as invalid by the server, you can attempt the save again
+ok 346 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: if a updated record is marked as erred by the server, it enters an error state
+ok 347 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: can be created after the DS.Store
+ok 348 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: the filter method can optionally take a server query as well
+ok 349 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: relationships returned via `commit` do not trigger additional findManys
+ok 350 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: relationships don't get reset if the links is the same
+ok 351 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: async hasMany always returns a promise
+ok 352 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: createRecord receives a snapshot
+ok 353 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: updateRecord receives a snapshot
+ok 354 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: deleteRecord receives a snapshot
+ok 355 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: findRecord receives a snapshot
+ok 356 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: findMany receives an array of snapshots
+ok 357 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: findHasMany receives a snapshot
+ok 358 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: findBelongsTo receives a snapshot
+ok 359 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: record.save should pass adapterOptions to the updateRecord method
+ok 360 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: record.save should pass adapterOptions to the createRecord method
+ok 361 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: record.save should pass adapterOptions to the deleteRecord method
+ok 362 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: store.findRecord should pass adapterOptions to adapter.findRecord
+ok 363 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: store.findAll should pass adapterOptions to the adapter.findAll method
+ok 364 PhantomJS 2.1 - integration/adapter/store-adapter - DS.Store and DS.Adapter integration test: An async hasMany relationship with links should not trigger shouldBackgroundReloadRecord
+ok 365 PhantomJS 2.1 - JSCS - integration/adapter: integration/adapter/store-adapter-test.js should pass jscs
+ok 366 PhantomJS 2.1 - JSHint - integration/adapter: integration/adapter/store-adapter-test.js should pass jshint
+ok 367 PhantomJS 2.1 - integration/application - Injecting a Custom Store: If a Store property exists on an Ember.Application, it should be instantiated.
+ok 368 PhantomJS 2.1 - integration/application - Injecting a Custom Store: If a store is instantiated, it should be made available to each controller.
+ok 369 PhantomJS 2.1 - integration/application - Injecting a Custom Store: The JSONAPIAdapter is the default adapter when no custom adapter is provided
+ok 370 PhantomJS 2.1 - integration/application - Injecting the Default Store: If a Store property exists on an Ember.Application, it should be instantiated.
+ok 371 PhantomJS 2.1 - integration/application - Injecting the Default Store: If a store is instantiated, it should be made available to each controller.
+ok 372 PhantomJS 2.1 - integration/application - Injecting the Default Store: the DS namespace should be accessible
+ok 373 PhantomJS 2.1 - integration/application - Using the store as a service: The store can be injected as a service
+ok 374 PhantomJS 2.1 - integration/application - Attaching initializer: ember-data initializer is run
+ok 375 PhantomJS 2.1 - integration/application - Attaching initializer: ember-data initializer does not register the store service when it was already registered
+ok 376 PhantomJS 2.1 - integration/application - Attaching initializer: store initializer is run (DEPRECATED)
+ok 377 PhantomJS 2.1 - integration/application - Attaching initializer: injectStore initializer is run (DEPRECATED)
+ok 378 PhantomJS 2.1 - integration/application - Attaching initializer: transforms initializer is run (DEPRECATED)
+ok 379 PhantomJS 2.1 - JSCS - integration: integration/application-test.js should pass jscs
+ok 380 PhantomJS 2.1 - JSHint - integration: integration/application-test.js should pass jshint
+ok 381 PhantomJS 2.1 - integration/backwards-compat/non-dasherized-lookups - non dasherized lookups in application code finders: can lookup records using camelCase strings
+ok 382 PhantomJS 2.1 - integration/backwards-compat/non-dasherized-lookups - non dasherized lookups in application code finders: can lookup records using under_scored strings
+ok 383 PhantomJS 2.1 - integration/backwards-compat/non-dasherized-lookups - non dasherized lookups in application code relationship macros: looks up belongsTo using camelCase strings
+ok 384 PhantomJS 2.1 - integration/backwards-compat/non-dasherized-lookups - non dasherized lookups in application code relationship macros: looks up belongsTo using under_scored strings
+ok 385 PhantomJS 2.1 - JSCS - integration/backwards-compat: integration/backwards-compat/non-dasherized-lookups-test.js should pass jscs
+ok 386 PhantomJS 2.1 - JSHint - integration/backwards-compat: integration/backwards-compat/non-dasherized-lookups-test.js should pass jshint
+ok 387 PhantomJS 2.1 - integration/client_id_generation - Client-side ID Generation: If an adapter implements the `generateIdForRecord` method, the store should be able to assign IDs without saving to the persistence layer.
+ok 388 PhantomJS 2.1 - integration/client_id_generation - Client-side ID Generation: empty string and undefined ids should coerce to null
+ok 389 PhantomJS 2.1 - JSCS - integration: integration/client-id-generation-test.js should pass jscs
+ok 390 PhantomJS 2.1 - JSHint - integration: integration/client-id-generation-test.js should pass jshint
+ok 391 PhantomJS 2.1 - DS.DebugAdapter: Watching Model Types
+ok 392 PhantomJS 2.1 - DS.DebugAdapter: Watching Records
+ok 393 PhantomJS 2.1 - JSCS - integration: integration/debug-adapter-test.js should pass jscs
+ok 394 PhantomJS 2.1 - JSHint - integration: integration/debug-adapter-test.js should pass jshint
+ok 395 PhantomJS 2.1 - integration/filter - DS.Model updating: when a DS.Model updates its attributes, its changes affect its filtered Array membership
+ok 396 PhantomJS 2.1 - integration/filter - DS.Model updating: when a DS.Model updates its relationships, its changes affect its filtered Array membership
+ok 397 PhantomJS 2.1 - integration/filter - DS.Model updating: a record array can have a filter on it
+ok 398 PhantomJS 2.1 - integration/filter - DS.Model updating: a filtered record array includes created elements
+ok 399 PhantomJS 2.1 - integration/filter - DS.Model updating: a Record Array can update its filter
+ok 400 PhantomJS 2.1 - integration/filter - DS.Model updating: a Record Array can update its filter and notify array observers
+ok 401 PhantomJS 2.1 - integration/filter - DS.Model updating: it is possible to filter by computed properties
+ok 402 PhantomJS 2.1 - integration/filter - DS.Model updating: a filter created after a record is already loaded works
+ok 403 PhantomJS 2.1 - integration/filter - DS.Model updating: filter with query persists query on the resulting filteredRecordArray
+ok 404 PhantomJS 2.1 - integration/filter - DS.Model updating: it is possible to filter by state flags
+ok 405 PhantomJS 2.1 - integration/filter - DS.Model updating: it is possible to filter loaded records by dirtiness
+ok 406 PhantomJS 2.1 - integration/filter - DS.Model updating: it is possible to filter created records by dirtiness
+ok 407 PhantomJS 2.1 - integration/filter - DS.Model updating: it is possible to filter created records by isReloading
+ok 408 PhantomJS 2.1 - integration/filter - DS.Model updating: a Record Array can update its filter after server-side updates one record
+ok 409 PhantomJS 2.1 - integration/filter - DS.Model updating: a Record Array can update its filter after server-side updates multiple records
+ok 410 PhantomJS 2.1 - integration/filter - DS.Model updating: a Record Array can update its filter after server-side creates one record
+ok 411 PhantomJS 2.1 - integration/filter - DS.Model updating: a Record Array can update its filter after server-side creates multiple records
+ok 412 PhantomJS 2.1 - integration/filter - DS.Model updating: a Record Array can update its filter after server-side creates multiple records
+ok 413 PhantomJS 2.1 - integration/filter - DS.Model updating: destroying filteredRecordArray unregisters models from being filtered
+ok 414 PhantomJS 2.1 - JSCS - integration: integration/filter-test.js should pass jscs
+ok 415 PhantomJS 2.1 - JSHint - integration: integration/filter-test.js should pass jshint
+ok 416 PhantomJS 2.1 - integration/inverse_test - inverseFor: Finds the inverse when there is only one possible available
+ok 417 PhantomJS 2.1 - integration/inverse_test - inverseFor: Finds the inverse when only one side has defined it manually
+ok 418 PhantomJS 2.1 - integration/inverse_test - inverseFor: Returns null if inverse relationship it is manually set with a different relationship key
+ok 419 PhantomJS 2.1 - integration/inverse_test - inverseFor: Errors out if you define 2 inverses to the same model
+ok 420 PhantomJS 2.1 - integration/inverse_test - inverseFor: Caches findInverseFor return value
+ok 421 PhantomJS 2.1 - integration/inverse_test - inverseFor: Errors out if you do not define an inverse for a reflexive relationship
+ok 422 PhantomJS 2.1 - JSCS - integration: integration/inverse-test.js should pass jscs
+ok 423 PhantomJS 2.1 - JSHint - integration: integration/inverse-test.js should pass jshint
+ok 424 PhantomJS 2.1 - integration/lifecycle_hooks - Lifecycle Hooks: When the adapter acknowledges that a record has been created, a `didCreate` event is triggered.
+ok 425 PhantomJS 2.1 - integration/lifecycle_hooks - Lifecycle Hooks: When the adapter acknowledges that a record has been created without a new data payload, a `didCreate` event is triggered.
+ok 426 PhantomJS 2.1 - JSCS - integration: integration/lifecycle-hooks-test.js should pass jscs
+ok 427 PhantomJS 2.1 - JSHint - integration: integration/lifecycle-hooks-test.js should pass jshint
+ok 428 PhantomJS 2.1 - integration/multiple_stores - Multiple Stores Tests: should be able to push into multiple stores
+ok 429 PhantomJS 2.1 - integration/multiple_stores - Multiple Stores Tests: embedded records should be created in multiple stores
+ok 430 PhantomJS 2.1 - JSCS - integration: integration/multiple_stores_test.js should pass jscs
+ok 431 PhantomJS 2.1 - JSHint - integration: integration/multiple_stores_test.js should pass jshint
+ok 432 PhantomJS 2.1 - integration/peek-all - DS.Store#peekAll(): store.peekAll('person') should return all records and should update with new ones
+ok 433 PhantomJS 2.1 - integration/peek-all - DS.Store#peekAll(): Calling store.peekAll() multiple times should update immediately inside the runloop
+ok 434 PhantomJS 2.1 - integration/peek-all - DS.Store#peekAll(): Calling store.peekAll() after creating a record should return correct data
+ok 435 PhantomJS 2.1 - JSCS - integration: integration/peek-all-test.js should pass jscs
+ok 436 PhantomJS 2.1 - JSHint - integration: integration/peek-all-test.js should pass jshint
+ok 437 PhantomJS 2.1 - integration/polymorphic-belongs-to - Polymorphic BelongsTo: using store.push with a null value for a payload in relationships sets the Models relationship to null - sync relationship
+ok 438 PhantomJS 2.1 - integration/polymorphic-belongs-to - Polymorphic BelongsTo: using store.push with a null value for a payload in relationships sets the Models relationship to null - async relationship
+ok 439 PhantomJS 2.1 - JSCS - integration: integration/polymorphic-belongs-to-test.js should pass jscs
+ok 440 PhantomJS 2.1 - JSHint - integration: integration/polymorphic-belongs-to-test.js should pass jshint
+ok 441 PhantomJS 2.1 - integration/record_array_manager: destroying the store correctly cleans everything up
+ok 442 PhantomJS 2.1 - integration/record_array_manager: Should not filter a store.peekAll() array when a record property is changed
+ok 443 PhantomJS 2.1 - integration/record_array_manager: #GH-4041 store#query AdapterPopulatedRecordArrays are removed from their managers instead of retained when #destroy is called
+ok 444 PhantomJS 2.1 - JSCS - integration: integration/record-array-manager-test.js should pass jscs
+ok 445 PhantomJS 2.1 - JSHint - integration: integration/record-array-manager-test.js should pass jshint
+ok 446 PhantomJS 2.1 - integration/records/collection_save - Save Collection of Records: Collection will resolve save on success
+ok 447 PhantomJS 2.1 - integration/records/collection_save - Save Collection of Records: Collection will reject save on error
+ok 448 PhantomJS 2.1 - integration/records/collection_save - Save Collection of Records: Retry is allowed in a failure handler
+ok 449 PhantomJS 2.1 - integration/records/collection_save - Save Collection of Records: Collection will reject save on invalid
+ok 450 PhantomJS 2.1 - JSCS - integration/records: integration/records/collection-save-test.js should pass jscs
+ok 451 PhantomJS 2.1 - JSHint - integration/records: integration/records/collection-save-test.js should pass jshint
+ok 452 PhantomJS 2.1 - integration/deletedRecord - Deleting Records: records should not be removed from record arrays just after deleting, but only after commiting them
+ok 453 PhantomJS 2.1 - integration/deletedRecord - Deleting Records: records can be deleted during record array enumeration
+ok 454 PhantomJS 2.1 - integration/deletedRecord - Deleting Records: when deleted records are rolled back, they are still in their previous record arrays
+ok 455 PhantomJS 2.1 - JSCS - integration/records: integration/records/delete-record-test.js should pass jscs
+ok 456 PhantomJS 2.1 - JSHint - integration/records: integration/records/delete-record-test.js should pass jshint
+ok 457 PhantomJS 2.1 - integration/records/error: adding errors during root.loaded.created.invalid works
+ok 458 PhantomJS 2.1 - integration/records/error: adding errors root.loaded.created.invalid works
+ok 459 PhantomJS 2.1 - integration/records/error: adding errors root.loaded.created.invalid works add + remove + add
+ok 460 PhantomJS 2.1 - integration/records/error: adding errors root.loaded.created.invalid works add + (remove, add)
+ok 461 PhantomJS 2.1 - JSCS - integration/records: integration/records/error-test.js should pass jscs
+ok 462 PhantomJS 2.1 - JSHint - integration/records: integration/records/error-test.js should pass jshint
+ok 463 PhantomJS 2.1 - integration/load - Loading Records: When loading a record fails, the isLoading is set to false
+ok 464 PhantomJS 2.1 - JSCS - integration/records: integration/records/load-test.js should pass jscs
+ok 465 PhantomJS 2.1 - JSHint - integration/records: integration/records/load-test.js should pass jshint
+ok 466 PhantomJS 2.1 - integration/records/property-changes - Property changes: Calling push with partial records trigger observers for just those attributes that changed
+ok 467 PhantomJS 2.1 - integration/records/property-changes - Property changes: Calling push does not trigger observers for locally changed attributes with the same value
+ok 468 PhantomJS 2.1 - integration/records/property-changes - Property changes: Saving a record trigger observers for locally changed attributes with the same canonical value
+ok 469 PhantomJS 2.1 - integration/records/property-changes - Property changes: store.push should not override a modified attribute
+ok 470 PhantomJS 2.1 - JSCS - integration/records: integration/records/property-changes-test.js should pass jscs
+ok 471 PhantomJS 2.1 - JSHint - integration/records: integration/records/property-changes-test.js should pass jshint
+ok 472 PhantomJS 2.1 - integration/reload - Reloading Records: When a single record is requested, the adapter's find method should be called unless it's loaded.
+ok 473 PhantomJS 2.1 - integration/reload - Reloading Records: When a record is reloaded and fails, it can try again
+ok 474 PhantomJS 2.1 - integration/reload - Reloading Records: When a record is loaded a second time, isLoaded stays true
+ok 475 PhantomJS 2.1 - integration/reload - Reloading Records: When a record is reloaded, its async hasMany relationships still work
+ok 476 PhantomJS 2.1 - JSCS - integration/records: integration/records/reload-test.js should pass jscs
+ok 477 PhantomJS 2.1 - JSHint - integration/records: integration/records/reload-test.js should pass jshint
+ok 478 PhantomJS 2.1 - integration/records/save - Save Record: Will resolve save on success
+ok 479 PhantomJS 2.1 - integration/records/save - Save Record: Will reject save on error
+ok 480 PhantomJS 2.1 - integration/records/save - Save Record: Retry is allowed in a failure handler
+ok 481 PhantomJS 2.1 - integration/records/save - Save Record: Repeated failed saves keeps the record in uncommited state
+ok 482 PhantomJS 2.1 - integration/records/save - Save Record: Repeated failed saves with invalid error marks the record as invalid
+ok 483 PhantomJS 2.1 - integration/records/save - Save Record: Repeated failed saves with invalid error without payload marks the record as invalid
+ok 484 PhantomJS 2.1 - integration/records/save - Save Record: Will reject save on invalid
+ok 485 PhantomJS 2.1 - JSCS - integration/records: integration/records/save-test.js should pass jscs
+ok 486 PhantomJS 2.1 - JSHint - integration/records: integration/records/save-test.js should pass jshint
+ok 487 PhantomJS 2.1 - integration/unload - Unloading Records: can unload a single record
+ok 488 PhantomJS 2.1 - integration/unload - Unloading Records: can unload all records for a given type
+ok 489 PhantomJS 2.1 - integration/unload - Unloading Records: can unload all records
+ok 490 PhantomJS 2.1 - integration/unload - Unloading Records: removes findAllCache after unloading all records
+ok 491 PhantomJS 2.1 - integration/unload - Unloading Records: unloading all records also updates record array from peekAll()
+ok 492 PhantomJS 2.1 - integration/unload - Unloading Records: unloading a record also clears its relationship
+ok 493 PhantomJS 2.1 - integration/unload - Unloading Records: unloading a record also clears the implicit inverse relationships
+ok 494 PhantomJS 2.1 - JSCS - integration/records: integration/records/unload-test.js should pass jscs
+ok 495 PhantomJS 2.1 - JSHint - integration/records: integration/records/unload-test.js should pass jshint
+ok 496 PhantomJS 2.1 - JSCS - integration/references: integration/references/belongs-to-test.js should pass jscs
+ok 497 PhantomJS 2.1 - JSHint - integration/references: integration/references/belongs-to-test.js should pass jshint
+ok 498 PhantomJS 2.1 - JSCS - integration/references: integration/references/has-many-test.js should pass jscs
+ok 499 PhantomJS 2.1 - JSHint - integration/references: integration/references/has-many-test.js should pass jshint
+ok 500 PhantomJS 2.1 - JSCS - integration/references: integration/references/record-test.js should pass jscs
+ok 501 PhantomJS 2.1 - JSHint - integration/references: integration/references/record-test.js should pass jshint
+ok 502 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: The store can materialize a non loaded monomorphic belongsTo association
+ok 503 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: Only a record of the same type can be used with a monomorphic belongsTo relationship
+ok 504 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: Only a record of the same base type can be used with a polymorphic belongsTo relationship
+ok 505 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: The store can load a polymorphic belongsTo association
+ok 506 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: The store can serialize a polymorphic belongsTo association
+ok 507 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: A serializer can materialize a belongsTo as a link that gets sent back to findBelongsTo
+ok 508 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: A record with an async belongsTo relationship always returns a promise for that relationship
+ok 509 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: A record with an async belongsTo relationship returning null should resolve null
+ok 510 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: A record can be created with a resolved belongsTo promise
+ok 511 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: polymorphic belongsTo type-checks check the superclass when MODEL_FACTORY_INJECTIONS is enabled
+ok 512 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: the subclass in a polymorphic belongsTo relationship is an instanceof its superclass
+ok 513 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: relationshipsByName does not cache a factory
+ok 514 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: relationshipsByName is cached in production
+ok 515 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: relatedTypes is cached in production
+ok 516 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: relationships is cached in production
+ok 517 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: relationship changes shouldn’t cause async fetches
+ok 518 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: Destroying a record with an unloaded aync belongsTo association does not fetch the record
+ok 519 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: A sync belongsTo errors out if the record is unlaoded
+ok 520 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: Rollbacking attributes for a deleted record restores implicit relationship - async
+ok 521 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: Rollbacking attributes for a deleted record restores implicit relationship - sync
+ok 522 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: Passing a model as type to belongsTo should not work
+ok 523 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: belongsTo hasData async loaded
+ok 524 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: belongsTo hasData sync loaded
+ok 525 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: belongsTo hasData async not loaded
+ok 526 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: belongsTo hasData sync not loaded
+ok 527 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: belongsTo hasData async created
+ok 528 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: belongsTo hasData sync created
+ok 529 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: Model's belongsTo relationship should not be created during model creation
+ok 530 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: Model's belongsTo relationship should be created during model creation if relationship passed in constructor
+ok 531 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: Model's belongsTo relationship should be created during 'set' method
+ok 532 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: Model's belongsTo relationship should be created during 'get' method
+ok 533 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: Related link should be fetched when no local data is present
+ok 534 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: Local data should take precedence over related link
+ok 535 PhantomJS 2.1 - integration/relationship/belongs_to Belongs-To Relationships: Updated related link should take precedence over local data
+ok 536 PhantomJS 2.1 - JSCS - integration/relationships: integration/relationships/belongs-to-test.js should pass jscs
+ok 537 PhantomJS 2.1 - JSHint - integration/relationships: integration/relationships/belongs-to-test.js should pass jshint
+ok 538 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: When a hasMany relationship is accessed, the adapter's findMany method should not be called if all the records in the relationship are already loaded
+ok 539 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: adapter.findMany only gets unique IDs even if duplicate IDs are present in the hasMany relationship
+ok 540 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: A serializer can materialize a hasMany as an opaque token that can be lazily fetched via the adapter's findHasMany hook
+ok 541 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Accessing a hasMany backed by a link multiple times triggers only one request
+ok 542 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: A hasMany backed by a link remains a promise after a record has been added to it
+ok 543 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: A hasMany updated link should not remove new children
+ok 544 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: A hasMany updated link should not remove new children when the parent record has children already
+    ---
+        Log: |
+            [object Object]
+            [object Object]
+    ...
+not ok 545 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: A hasMany updated link should not duplicate new children when the childs records are saved first
+    ---
+        actual: >
+            null
+        message: >
+            Died on test #1 http://localhost:7357/assets/tests.js:13337:19
+            http://localhost:7357/assets/vendor.js:156:34
+            tryFinally@http://localhost:7357/assets/vendor.js:37:21
+            requireModule@http://localhost:7357/assets/vendor.js:154:15
+            require@http://localhost:7357/assets/test-loader.js:29:16
+            loadModules@http://localhost:7357/assets/test-loader.js:21:25
+            load@http://localhost:7357/assets/test-loader.js:40:35
+            http://localhost:7357/assets/test-support.js:5831:20: Can't find variable: comments
+        Log: |
+    ...
+ok 546 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: A hasMany relationship can be reloaded if it was fetched via a link
+ok 547 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: A sync hasMany relationship can be reloaded if it was fetched via ids
+ok 548 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: A hasMany relationship can be reloaded if it was fetched via ids
+ok 549 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: A hasMany relationship can be reloaded even if it failed at the first time
+ok 550 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: A hasMany relationship can be directly reloaded if it was fetched via links
+ok 551 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: A hasMany relationship can be directly reloaded if it was fetched via ids
+ok 552 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: PromiseArray proxies createRecord to its ManyArray once the hasMany is loaded
+ok 553 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: PromiseArray proxies evented methods to its ManyArray
+ok 554 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: An updated `links` value should invalidate a relationship cache
+ok 555 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: When a polymorphic hasMany relationship is accessed, the adapter's findMany method should not be called if all the records in the relationship are already loaded
+ok 556 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: When a polymorphic hasMany relationship is accessed, the store can call multiple adapters' findMany or find methods if the records are not loaded
+ok 557 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: polymorphic hasMany type-checks check the superclass when MODEL_FACTORY_INJECTIONS is enabled
+ok 558 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Type can be inferred from the key of a hasMany relationship
+ok 559 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Type can be inferred from the key of an async hasMany relationship
+ok 560 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Polymorphic relationships work with a hasMany whose type is inferred
+ok 561 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Polymorphic relationships with a hasMany is set up correctly on both sides
+ok 562 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: A record can't be created from a polymorphic hasMany relationship
+ok 563 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Only records of the same type can be added to a monomorphic hasMany relationship
+ok 564 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Only records of the same base type can be added to a polymorphic hasMany relationship
+ok 565 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: A record can be removed from a polymorphic association
+ok 566 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: When a record is created on the client, its hasMany arrays should be in a loaded state
+ok 567 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: When a record is created on the client, its async hasMany arrays should be in a loaded state
+ok 568 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: we can set records SYNC HM relationship
+ok 569 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: We can set records ASYNC HM relationship
+ok 570 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: When a record is saved, its unsaved hasMany records should be kept
+ok 571 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: dual non-async HM <-> BT
+ok 572 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: When an unloaded record is added to the hasMany, it gets fetched once the hasMany is accessed even if the hasMany has been already fetched
+ok 573 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: A sync hasMany errors out if there are unlaoded records in it
+ok 574 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: If reordered hasMany data has been pushed to the store, the many array reflects the ordering change - sync
+ok 575 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Rollbacking attributes for deleted record restores implicit relationship correctly when the hasMany side has been deleted - async
+ok 576 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Rollbacking attributes for deleted record restores implicit relationship correctly when the hasMany side has been deleted - sync
+ok 577 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Rollbacking attributes for deleted record restores implicit relationship correctly when the belongsTo side has been deleted - async
+ok 578 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Rollbacking attributes for deleted record restores implicit relationship correctly when the belongsTo side has been deleted - sync
+ok 579 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: ManyArray notifies the array observers and flushes bindings when removing
+ok 580 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: ManyArray notifies the array observers and flushes bindings when adding
+ok 581 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Passing a model as type to hasMany should not work
+ok 582 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Relationship.clear removes all records correctly
+ok 583 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: unloading a record with associated records does not prevent the store from tearing down
+ok 584 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: adding and removing records from hasMany relationship #2666
+ok 585 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: hasMany hasData async loaded
+ok 586 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: hasMany hasData sync loaded
+ok 587 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: hasMany hasData async not loaded
+ok 588 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: hasMany hasData sync not loaded
+ok 589 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: hasMany hasData async created
+ok 590 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: hasMany hasData sync created
+ok 591 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Model's hasMany relationship should not be created during model creation
+ok 592 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Model's belongsTo relationship should be created during 'get' method
+ok 593 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: metadata is accessible when pushed as a meta property for a relationship
+ok 594 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: metadata is accessible when return from a fetchLink
+ok 595 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: metadata should be reset between requests
+ok 596 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Related link should be fetched when no local data is present
+ok 597 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Local data should take precedence over related link
+ok 598 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: Updated related link should take precedence over local data
+ok 599 PhantomJS 2.1 - integration/relationships/has_many - Has-Many Relationships: PromiseArray proxies createRecord to its ManyArray before the hasMany is loaded
+not ok 600 PhantomJS 2.1 - JSCS - integration/relationships: integration/relationships/has-many-test.js should pass jscs
+    ---
+        actual: >
+            false
+        expected: >
+            true
+        message: >
+            integration/relationships/has-many-test.js should pass jscs.
+            Expected indentation of 8 characters at integration/relationships/has-many-test.js :
+               410 |      })
+               411 |      .then(function(comments) {
+               412 |    comments.forEach(
+            ----------------^
+               413 |     function (comment) { console.log(comment) ; }
+               414 |    )
+            Expected indentation of 6 characters at integration/relationships/has-many-test.js :
+               443 |    var comment = env.store.createRecord('comment', { message: post });
+               444 |    post.save().then(function() {
+               445 |   console.log("=========> ", comments.get('length'));
+            --------------^
+               446 |      assert.equal(comments.get('length'), 1);
+               447 |      return comment.save();
+        Log: |
+    ...
+not ok 601 PhantomJS 2.1 - JSHint - integration/relationships: integration/relationships/has-many-test.js should pass jshint
+    ---
+        actual: >
+            false
+        expected: >
+            true
+        message: >
+            integration/relationships/has-many-test.js should pass jshint.
+            integration/relationships/has-many-test.js: line 414, col 18, Missing semicolon.
+            integration/relationships/has-many-test.js: line 413, col 42, 'console' is not defined.
+            integration/relationships/has-many-test.js: line 445, col 13, 'console' is not defined.
+            integration/relationships/has-many-test.js: line 453, col 7, 'console' is not defined.
+            integration/relationships/has-many-test.js: line 445, col 40, 'comments' is not defined.
+            integration/relationships/has-many-test.js: line 446, col 20, 'comments' is not defined.
+            
+            6 errors
+        Log: |
+    ...
+ok 602 PhantomJS 2.1 - integration/relationships/inverse_relationships - Inverse Relationships: When a record is added to a has-many relationship, the inverse belongsTo is determined automatically
+ok 603 PhantomJS 2.1 - integration/relationships/inverse_relationships - Inverse Relationships: Inverse relationships can be explicitly nullable
+ok 604 PhantomJS 2.1 - integration/relationships/inverse_relationships - Inverse Relationships: When a record is added to a has-many relationship, the inverse belongsTo can be set explicitly
+ok 605 PhantomJS 2.1 - integration/relationships/inverse_relationships - Inverse Relationships: When a record's belongsTo relationship is set, it can specify the inverse hasMany to which the new child should be added
+ok 606 PhantomJS 2.1 - integration/relationships/inverse_relationships - Inverse Relationships: When setting a belongsTo, the OneToOne invariant is respected even when other records have been previously used
+ok 607 PhantomJS 2.1 - integration/relationships/inverse_relationships - Inverse Relationships: When setting a belongsTo, the OneToOne invariant is transitive
+ok 608 PhantomJS 2.1 - integration/relationships/inverse_relationships - Inverse Relationships: When setting a belongsTo, the OneToOne invariant is commutative
+ok 609 PhantomJS 2.1 - integration/relationships/inverse_relationships - Inverse Relationships: OneToNone relationship works
+ok 610 PhantomJS 2.1 - integration/relationships/inverse_relationships - Inverse Relationships: When a record is added to or removed from a polymorphic has-many relationship, the inverse belongsTo can be set explicitly
+ok 611 PhantomJS 2.1 - integration/relationships/inverse_relationships - Inverse Relationships: When a record's belongsTo relationship is set, it can specify the inverse polymorphic hasMany to which the new child should be added or removed
+ok 612 PhantomJS 2.1 - integration/relationships/inverse_relationships - Inverse Relationships: When a record's polymorphic belongsTo relationship is set, it can specify the inverse hasMany to which the new child should be added
+ok 613 PhantomJS 2.1 - integration/relationships/inverse_relationships - Inverse Relationships: Inverse relationships that don't exist throw a nice error for a hasMany
+ok 614 PhantomJS 2.1 - integration/relationships/inverse_relationships - Inverse Relationships: Inverse relationships that don't exist throw a nice error for a belongsTo
+ok 615 PhantomJS 2.1 - JSCS - integration/relationships: integration/relationships/inverse-relationships-test.js should pass jscs
+ok 616 PhantomJS 2.1 - JSHint - integration/relationships: integration/relationships/inverse-relationships-test.js should pass jshint
+ok 617 PhantomJS 2.1 - integration/relationships/many_to_many_test - ManyToMany relationships: Loading from one hasMany side reflects on the other hasMany side - async
+ok 618 PhantomJS 2.1 - integration/relationships/many_to_many_test - ManyToMany relationships: Relationship is available from the belongsTo side even if only loaded from the hasMany side - sync
+ok 619 PhantomJS 2.1 - integration/relationships/many_to_many_test - ManyToMany relationships: Fetching a hasMany where a record was removed reflects on the other hasMany side - async
+ok 620 PhantomJS 2.1 - integration/relationships/many_to_many_test - ManyToMany relationships: Fetching a hasMany where a record was removed reflects on the other hasMany side - async
+ok 621 PhantomJS 2.1 - integration/relationships/many_to_many_test - ManyToMany relationships: Pushing to a hasMany reflects on the other hasMany side - async
+ok 622 PhantomJS 2.1 - integration/relationships/many_to_many_test - ManyToMany relationships: Pushing to a hasMany reflects on the other hasMany side - sync
+ok 623 PhantomJS 2.1 - integration/relationships/many_to_many_test - ManyToMany relationships: Removing a record from a hasMany reflects on the other hasMany side - async
+ok 624 PhantomJS 2.1 - integration/relationships/many_to_many_test - ManyToMany relationships: Removing a record from a hasMany reflects on the other hasMany side - sync
+ok 625 PhantomJS 2.1 - integration/relationships/many_to_many_test - ManyToMany relationships: Rollbacking attributes for a deleted record that has a ManyToMany relationship works correctly - async
+ok 626 PhantomJS 2.1 - integration/relationships/many_to_many_test - ManyToMany relationships: Deleting a record that has a hasMany relationship removes it from the otherMany array but does not remove the other record from itself - sync
+ok 627 PhantomJS 2.1 - integration/relationships/many_to_many_test - ManyToMany relationships: Rollbacking attributes for a created record that has a ManyToMany relationship works correctly - async
+ok 628 PhantomJS 2.1 - integration/relationships/many_to_many_test - ManyToMany relationships: Deleting a record that has a hasMany relationship removes it from the otherMany array but does not remove the other record from itself - sync
+ok 629 PhantomJS 2.1 - integration/relationships/many_to_many_test - ManyToMany relationships: Re-loading a removed record should re add it to the relationship when the removed record is the last one in the relationship
+ok 630 PhantomJS 2.1 - JSCS - integration/relationships: integration/relationships/many-to-many-test.js should pass jscs
+ok 631 PhantomJS 2.1 - JSHint - integration/relationships: integration/relationships/many-to-many-test.js should pass jshint
+ok 632 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Relationship is available from the belongsTo side even if only loaded from the hasMany side - async
+ok 633 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Relationship is available from the belongsTo side even if only loaded from the hasMany side - sync
+ok 634 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Relationship is available from the hasMany side even if only loaded from the belongsTo side - async
+ok 635 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Relationship is available from the hasMany side even if only loaded from the belongsTo side - sync
+ok 636 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Fetching a belongsTo that is set to null removes the record from a relationship - async
+ok 637 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Fetching a belongsTo that is set to null removes the record from a relationship - sync
+ok 638 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Fetching a belongsTo that is not defined does not remove the record from a relationship - async
+ok 639 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Fetching a belongsTo that is not defined does not remove the record from a relationship - sync
+ok 640 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Fetching the hasMany that doesn't contain the belongsTo, sets the belongsTo to null - async
+ok 641 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Fetching the hasMany that doesn't contain the belongsTo, sets the belongsTo to null - sync
+ok 642 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Fetching the hasMany side where the hasMany is undefined does not change the belongsTo side - async
+ok 643 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Fetching the hasMany side where the hasMany is undefined does not change the belongsTo side - sync
+ok 644 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Pushing to the hasMany reflects the change on the belongsTo side - async
+ok 645 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Pushing to the hasMany reflects the change on the belongsTo side - sync
+ok 646 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Removing from the hasMany side reflects the change on the belongsTo side - async
+ok 647 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Removing from the hasMany side reflects the change on the belongsTo side - sync
+ok 648 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Pushing to the hasMany side keeps the oneToMany invariant on the belongsTo side - async
+ok 649 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Pushing to the hasMany side keeps the oneToMany invariant - sync
+ok 650 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Setting the belongsTo side keeps the oneToMany invariant on the hasMany- async
+ok 651 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Setting the belongsTo side keeps the oneToMany invariant on the hasMany- sync
+ok 652 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Setting the belongsTo side to null removes the record from the hasMany side - async
+ok 653 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Setting the belongsTo side to null removes the record from the hasMany side - sync
+ok 654 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Rollbacking attributes of a deleted record works correctly when the hasMany side has been deleted - async
+ok 655 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Rollbacking attributes of a deleted record works correctly when the hasMany side has been deleted - sync
+ok 656 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Rollbacking attributes of deleted record works correctly when the belongsTo side has been deleted - async
+ok 657 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Rollbacking attributes of a deleted record works correctly when the belongsTo side has been deleted - sync
+ok 658 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Rollbacking attributes of a created record works correctly when the hasMany side has been created - async
+ok 659 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Rollbacking attributes of a created record works correctly when the hasMany side has been created - sync
+ok 660 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Rollbacking attributes of a created record works correctly when the belongsTo side has been created - async
+ok 661 PhantomJS 2.1 - integration/relationships/one_to_many_test - OneToMany relationships: Rollbacking attributes of a created record works correctly when the belongsTo side has been created - sync
+ok 662 PhantomJS 2.1 - JSCS - integration/relationships: integration/relationships/one-to-many-test.js should pass jscs
+ok 663 PhantomJS 2.1 - JSHint - integration/relationships: integration/relationships/one-to-many-test.js should pass jshint
+ok 664 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Relationship is available from both sides even if only loaded from one side - async
+ok 665 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Relationship is available from both sides even if only loaded from one side - sync
+ok 666 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Fetching a belongsTo that is set to null removes the record from a relationship - async
+ok 667 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Fetching a belongsTo that is set to null removes the record from a relationship - sync
+ok 668 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Fetching a belongsTo that is set to a different record, sets the old relationship to null - async
+ok 669 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Fetching a belongsTo that is set to a different record, sets the old relationship to null - sync
+ok 670 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Setting a OneToOne relationship reflects correctly on the other side- async
+ok 671 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Setting a OneToOne relationship reflects correctly on the other side- sync
+ok 672 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Setting a BelongsTo to a promise unwraps the promise before setting- async
+ok 673 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Setting a BelongsTo to a promise works when the promise returns null- async
+ok 674 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Setting a BelongsTo to a promise that didn't come from a relationship errors out
+ok 675 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Setting a BelongsTo to a promise multiple times is resistant to race conditions- async
+ok 676 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Setting a OneToOne relationship to null reflects correctly on the other side - async
+ok 677 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Setting a OneToOne relationship to null reflects correctly on the other side - sync
+ok 678 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Setting a belongsTo to a different record, sets the old relationship to null - async
+ok 679 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Setting a belongsTo to a different record, sets the old relationship to null - sync
+ok 680 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Rollbacking attributes of deleted record restores the relationship on both sides - async
+ok 681 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Rollbacking attributes of deleted record restores the relationship on both sides - sync
+ok 682 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Rollbacking attributes of created record removes the relationship on both sides - async
+ok 683 PhantomJS 2.1 - integration/relationships/one_to_one_test - OneToOne relationships: Rollbacking attributes of created record removes the relationship on both sides - sync
+ok 684 PhantomJS 2.1 - JSCS - integration/relationships: integration/relationships/one-to-one-test.js should pass jscs
+ok 685 PhantomJS 2.1 - JSHint - integration/relationships: integration/relationships/one-to-one-test.js should pass jshint
+ok 686 PhantomJS 2.1 - integration/relationships/polymorphic_mixins_belongs_to_test - Polymorphic belongsTo relationships with mixins: Relationship is available from the belongsTo side even if only loaded from the inverse side - async
+ok 687 PhantomJS 2.1 - integration/relationships/polymorphic_mixins_belongs_to_test - Polymorphic belongsTo relationships with mixins: Setting the polymorphic belongsTo gets propagated to the inverse side - async
+ok 688 PhantomJS 2.1 - integration/relationships/polymorphic_mixins_belongs_to_test - Polymorphic belongsTo relationships with mixins: Setting the polymorphic belongsTo with an object that does not implement the mixin errors out
+ok 689 PhantomJS 2.1 - integration/relationships/polymorphic_mixins_belongs_to_test - Polymorphic belongsTo relationships with mixins: Setting the polymorphic belongsTo gets propagated to the inverse side - model injections true
+ok 690 PhantomJS 2.1 - integration/relationships/polymorphic_mixins_belongs_to_test - Polymorphic belongsTo relationships with mixins: Setting the polymorphic belongsTo with an object that does not implement the mixin errors out - model injections true
+ok 691 PhantomJS 2.1 - JSCS - integration/relationships: integration/relationships/polymorphic-mixins-belongs-to-test.js should pass jscs
+ok 692 PhantomJS 2.1 - JSHint - integration/relationships: integration/relationships/polymorphic-mixins-belongs-to-test.js should pass jshint
+ok 693 PhantomJS 2.1 - integration/relationships/polymorphic_mixins_has_many_test - Polymorphic hasMany relationships with mixins: Relationship is available from the belongsTo side even if only loaded from the hasMany side - async
+ok 694 PhantomJS 2.1 - integration/relationships/polymorphic_mixins_has_many_test - Polymorphic hasMany relationships with mixins: Pushing to the hasMany reflects the change on the belongsTo side - async
+ok 695 PhantomJS 2.1 - integration/relationships/polymorphic_mixins_has_many_test - Polymorphic hasMany relationships with mixins: Pushing a an object that does not implement the mixin to the mixin accepting array errors out
+ok 696 PhantomJS 2.1 - integration/relationships/polymorphic_mixins_has_many_test - Polymorphic hasMany relationships with mixins: Pushing to the hasMany reflects the change on the belongsTo side - model injections true
+ok 697 PhantomJS 2.1 - integration/relationships/polymorphic_mixins_has_many_test - Polymorphic hasMany relationships with mixins: Pushing a an object that does not implement the mixin to the mixin accepting array errors out - model injections true
+ok 698 PhantomJS 2.1 - JSCS - integration/relationships: integration/relationships/polymorphic-mixins-has-many-test.js should pass jscs
+ok 699 PhantomJS 2.1 - JSHint - integration/relationships: integration/relationships/polymorphic-mixins-has-many-test.js should pass jshint
+ok 700 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with embedded objects
+ok 701 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with embedded objects inside embedded objects
+ok 702 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with embedded objects of same type
+ok 703 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with embedded objects inside embedded objects of same type
+ok 704 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with embedded objects of same type, but from separate attributes
+ok 705 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with embedded objects
+ok 706 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with embedded objects with custom primary key
+ok 707 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with embedded objects with identical relationship and attribute key
+ok 708 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with embedded objects of same type as primary type
+ok 709 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with embedded objects of same type, but from separate attributes
+ok 710 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize supports serialize:false on non-relationship properties
+ok 711 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded objects (hasMany relationship)
+ok 712 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded objects and a custom keyForAttribute (hasMany relationship)
+ok 713 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded objects (unknown hasMany relationship)
+ok 714 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded objects (hasMany relationship) supports serialize:false
+ok 715 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with (new) embedded objects (hasMany relationship)
+ok 716 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded objects (hasMany relationships, including related objects not embedded)
+ok 717 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with embedded object (belongsTo relationship)
+ok 718 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded object (belongsTo relationship)
+ok 719 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded object (polymorphic belongsTo relationship)
+ok 720 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded object (belongsTo relationship) works with different primaryKeys
+ok 721 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded object (belongsTo relationship, new no id)
+ok 722 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded object (polymorphic belongsTo relationship) supports serialize:ids
+ok 723 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded object (belongsTo relationship) supports serialize:id
+ok 724 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded object (belongsTo relationship) supports serialize:id in conjunction with deserialize:records
+ok 725 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded object (belongsTo relationship) supports serialize:ids
+ok 726 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded object (belongsTo relationship) supports serialize:id
+ok 727 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded object (belongsTo relationship) supports serialize:id in conjunction with deserialize:records
+ok 728 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded object (belongsTo relationship) supports serialize:false
+ok 729 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serialize with embedded object (belongsTo relationship) serializes the id by default if no option specified
+ok 730 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: when related record is not present, serialize embedded record (with a belongsTo relationship) as null
+ok 731 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with multiply-nested belongsTo
+ok 732 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with polymorphic hasMany
+ok 733 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with polymorphic hasMany and custom primary key
+ok 734 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with polymorphic belongsTo
+ok 735 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalizeResponse with polymorphic belongsTo and custom primary key
+ok 736 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: Mixin can be used with RESTSerializer which does not define keyForAttribute
+ok 737 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: normalize with custom belongsTo primary key
+ok 738 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serializing relationships with an embedded and without calls super when not attr not present
+ok 739 PhantomJS 2.1 - integration/embedded_records_mixin - EmbeddedRecordsMixin: serializing belongsTo correctly removes embedded foreign key
+ok 740 PhantomJS 2.1 - JSCS - integration/serializers: integration/serializers/embedded-records-mixin-test.js should pass jscs
+ok 741 PhantomJS 2.1 - JSHint - integration/serializers: integration/serializers/embedded-records-mixin-test.js should pass jshint
+ok 742 PhantomJS 2.1 - integration/serializers/json-api-serializer - JSONAPISerializer: Calling pushPayload works
+ok 743 PhantomJS 2.1 - integration/serializers/json-api-serializer - JSONAPISerializer: Warns when normalizing an unknown type
+ok 744 PhantomJS 2.1 - integration/serializers/json-api-serializer - JSONAPISerializer: Warns when normalizing with type missing
+ok 745 PhantomJS 2.1 - integration/serializers/json-api-serializer - JSONAPISerializer: Serializer should respect the attrs hash when extracting attributes and relationships
+ok 746 PhantomJS 2.1 - integration/serializers/json-api-serializer - JSONAPISerializer: Serializer should respect the attrs hash when serializing attributes and relationships
+ok 747 PhantomJS 2.1 - integration/serializers/json-api-serializer - JSONAPISerializer: Serializer should respect the attrs hash when extracting attributes with not camelized keys
+ok 748 PhantomJS 2.1 - integration/serializers/json-api-serializer - JSONAPISerializer: Serializer should respect the attrs hash when serializing attributes with not camelized keys
+ok 749 PhantomJS 2.1 - JSCS - integration/serializers: integration/serializers/json-api-serializer-test.js should pass jscs
+ok 750 PhantomJS 2.1 - JSHint - integration/serializers: integration/serializers/json-api-serializer-test.js should pass jshint
+ok 751 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: serialize doesn't include ID when includeId is false
+ok 752 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: serialize includes id when includeId is true
+ok 753 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: serializeAttribute
+ok 754 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: serializeAttribute respects keyForAttribute
+ok 755 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: serializeBelongsTo
+ok 756 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: serializeBelongsTo with null
+ok 757 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: async serializeBelongsTo with null
+ok 758 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: serializeBelongsTo respects keyForRelationship
+ok 759 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: serializeHasMany respects keyForRelationship
+ok 760 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: serializeHasMany omits unknown relationships on pushed record
+ok 761 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: serializeIntoHash
+ok 762 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: serializePolymorphicType sync
+ok 763 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: serializePolymorphicType async
+ok 764 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: normalizeResponse normalizes each record in the array
+ok 765 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer should respect the attrs hash when extracting records
+ok 766 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer should map `attrs` attributes directly when keyForAttribute also has a transform
+ok 767 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer should respect the attrs hash when serializing records
+ok 768 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer respects if embedded model has an attribute named "type" - #3726
+ok 769 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer respects if embedded model has a relationship named "type" - #3726
+ok 770 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer respects `serialize: false` on the attrs hash
+ok 771 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer respects `serialize: false` on the attrs hash for a `hasMany` property
+ok 772 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer respects `serialize: false` on the attrs hash for a `belongsTo` property
+ok 773 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer respects `serialize: false` on the attrs hash for a `hasMany` property
+ok 774 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer respects `serialize: false` on the attrs hash for a `belongsTo` property
+ok 775 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer respects `serialize: true` on the attrs hash for a `hasMany` property
+ok 776 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer respects `serialize: true` on the attrs hash for a `belongsTo` property
+ok 777 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer should merge attrs from superclasses
+ok 778 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer should respect the primaryKey attribute when extracting records
+ok 779 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer should respect the primaryKey attribute when serializing records
+ok 780 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer should respect keyForAttribute when extracting records
+ok 781 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Serializer should respect keyForRelationship when extracting records
+ok 782 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: Calling normalize should normalize the payload (only the passed keys)
+ok 783 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: serializeBelongsTo with async polymorphic
+ok 784 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: extractErrors respects custom key mappings
+ok 785 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: extractErrors expects error information located on the errors property of payload
+ok 786 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: extractErrors leaves payload untouched if it has no errors property
+ok 787 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: normalizeResponse should extract meta using extractMeta
+ok 788 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: normalizeResponse returns empty `included` payload by default
+ok 789 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: normalizeResponse returns empty `included` payload when relationship is undefined
+ok 790 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: normalizeResponse respects `included` items (single response)
+ok 791 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: normalizeResponse respects `included` items (array response)
+ok 792 PhantomJS 2.1 - integration/serializer/json - JSONSerializer: normalizeResponse ignores unmapped attributes
+ok 793 PhantomJS 2.1 - JSCS - integration/serializers: integration/serializers/json-serializer-test.js should pass jscs
+ok 794 PhantomJS 2.1 - JSHint - integration/serializers: integration/serializers/json-serializer-test.js should pass jshint
+ok 795 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: modelNameFromPayloadKey returns always same modelName even for uncountable multi words keys
+ok 796 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalizeResponse should extract meta using extractMeta
+ok 797 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalizeResponse with custom modelNameFromPayloadKey
+ok 798 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalizeResponse warning with custom modelNameFromPayloadKey
+ok 799 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalizeResponse warning with custom modelNameFromPayloadKey
+ok 800 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: serialize polymorphicType
+ok 801 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: serialize polymorphicType with decamelized modelName
+ok 802 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: serialize polymorphic when associated object is null
+ok 803 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalizeResponse loads secondary records with correct serializer
+ok 804 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalizeResponse returns null if payload contains null
+ok 805 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalizeResponse loads secondary records with correct serializer
+ok 806 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalizeHash normalizes specific parts of the payload
+ok 807 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalizeHash works with transforms
+ok 808 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalize should allow for different levels of normalization
+ok 809 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalize should allow for different levels of normalization - attributes
+ok 810 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: serializeIntoHash
+ok 811 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: serializeIntoHash with decamelized modelName
+ok 812 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: serializeBelongsTo with async polymorphic
+ok 813 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: serializeBelongsTo logs deprecation when old behavior for getting polymorphic type key is used
+ok 814 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: keyForPolymorphicType can be used to overwrite how the type of a polymorphic record is serialized
+ok 815 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: keyForPolymorphicType can be used to overwrite how the type of a polymorphic record is looked up for normalization
+ok 816 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: serializeIntoHash uses payloadKeyFromModelName to normalize the payload root key
+ok 817 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalizeResponse with async polymorphic belongsTo, using <relationshipName>Type
+ok 818 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalizeResponse with async polymorphic belongsTo
+ok 819 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalizeResponse with async polymorphic hasMany
+ok 820 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: normalizeResponse can load secondary records of the same type without affecting the query count
+ok 821 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: don't polymorphically deserialize base on the type key in payload when a type attribute exist
+ok 822 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: don't polymorphically deserialize base on the type key in payload when a type attribute exist on a singular response
+ok 823 PhantomJS 2.1 - integration/serializer/rest - RESTSerializer: don't polymorphically deserialize based on the type key in payload when a relationship exists named type
+ok 824 PhantomJS 2.1 - JSCS - integration/serializers: integration/serializers/rest-serializer-test.js should pass jscs
+ok 825 PhantomJS 2.1 - JSHint - integration/serializers: integration/serializers/rest-serializer-test.js should pass jshint
+ok 826 PhantomJS 2.1 - integration/setup-container - Setting up a container: The store should be registered into a container.
+ok 827 PhantomJS 2.1 - integration/setup-container - Setting up a container: The store should be registered into the container as a service.
+ok 828 PhantomJS 2.1 - integration/setup-container - Setting up a container: If a store is instantiated, it should be made available to each controller.
+ok 829 PhantomJS 2.1 - integration/setup-container - Setting up a container: serializers are not returned as singletons - each lookup should return a different instance
+ok 830 PhantomJS 2.1 - integration/setup-container - Setting up a container: adapters are not returned as singletons - each lookup should return a different instance
+ok 831 PhantomJS 2.1 - JSCS - integration: integration/setup-container-test.js should pass jscs
+ok 832 PhantomJS 2.1 - JSHint - integration: integration/setup-container-test.js should pass jshint
+ok 833 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: record._createSnapshot() returns a snapshot
+ok 834 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.id, snapshot.type and snapshot.modelName returns correctly
+ok 835 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.attr() does not change when record changes
+ok 836 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.attr() throws an error attribute not found
+ok 837 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.attributes() returns a copy of all attributes for the current snapshot
+ok 838 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.changedAttributes() returns a copy of all changed attributes for the current snapshot
+ok 839 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.belongsTo() returns undefined if relationship is undefined
+ok 840 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.belongsTo() returns null if relationship is unset
+ok 841 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.belongsTo() returns a snapshot if relationship is set
+ok 842 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.belongsTo() returns null if relationship is deleted
+ok 843 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.belongsTo() returns undefined if relationship is a link
+ok 844 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.belongsTo() throws error if relation doesn't exist
+ok 845 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.belongsTo() returns a snapshot if relationship link has been fetched
+ok 846 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.belongsTo() and snapshot.hasMany() returns correctly when adding an object to a hasMany relationship
+ok 847 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.belongsTo() and snapshot.hasMany() returns correctly when setting an object to a belongsTo relationship
+ok 848 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.belongsTo() returns ID if option.id is set
+ok 849 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.belongsTo() returns null if option.id is set but relationship was deleted
+ok 850 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.hasMany() returns undefined if relationship is undefined
+ok 851 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.hasMany() returns empty array if relationship is empty
+ok 852 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.hasMany() returns array of snapshots if relationship is set
+ok 853 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.hasMany() returns empty array if relationship records are deleted
+ok 854 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.hasMany() returns array of IDs if option.ids is set
+ok 855 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.hasMany() returns empty array of IDs if option.ids is set but relationship records were deleted
+ok 856 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.hasMany() returns undefined if relationship is a link
+ok 857 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.hasMany() returns array of snapshots if relationship link has been fetched
+ok 858 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.hasMany() throws error if relation doesn't exist
+ok 859 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.hasMany() respects the order of items in the relationship
+ok 860 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.eachAttribute() proxies to record
+ok 861 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.eachRelationship() proxies to record
+ok 862 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.belongsTo() does not trigger a call to store.scheduleFetch
+ok 863 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.hasMany() does not trigger a call to store.scheduleFetch
+ok 864 PhantomJS 2.1 - integration/snapshot - DS.Snapshot: snapshot.serialize() serializes itself
+ok 865 PhantomJS 2.1 - JSCS - integration: integration/snapshot-test.js should pass jscs
+ok 866 PhantomJS 2.1 - JSHint - integration: integration/snapshot-test.js should pass jshint
+ok 867 PhantomJS 2.1 - integration/store/json-validation: when normalizeResponse returns undefined (or doesn't return), throws an error
+ok 868 PhantomJS 2.1 - integration/store/json-validation: when normalizeResponse returns null, throws an error
+ok 869 PhantomJS 2.1 - integration/store/json-validation: when normalizeResponse returns an empty object, throws an error
+ok 870 PhantomJS 2.1 - integration/store/json-validation: when normalizeResponse returns a document with both data and errors, throws an error
+ok 871 PhantomJS 2.1 - integration/store/json-validation: normalizeResponse 'data' cannot be undefined, a number, a string or a boolean
+ok 872 PhantomJS 2.1 - integration/store/json-validation: normalizeResponse 'meta' cannot be an array, undefined, a number, a string or a boolean
+ok 873 PhantomJS 2.1 - integration/store/json-validation: normalizeResponse 'links' cannot be an array, undefined, a number, a string or a boolean
+ok 874 PhantomJS 2.1 - integration/store/json-validation: normalizeResponse 'jsonapi' cannot be an array, undefined, a number, a string or a boolean
+ok 875 PhantomJS 2.1 - integration/store/json-validation: normalizeResponse 'included' cannot be an object, undefined, a number, a string or a boolean
+ok 876 PhantomJS 2.1 - integration/store/json-validation: normalizeResponse 'errors' cannot be an object, undefined, a number, a string or a boolean
+ok 877 PhantomJS 2.1 - JSCS - integration/store: integration/store/json-api-validation-test.js should pass jscs
+ok 878 PhantomJS 2.1 - JSHint - integration/store: integration/store/json-api-validation-test.js should pass jshint
+ok 879 PhantomJS 2.1 - integration/store/query-record - Query one record with a query hash: It raises an assertion when no type is passed
+ok 880 PhantomJS 2.1 - integration/store/query-record - Query one record with a query hash: It raises an assertion when no query hash is passed
+ok 881 PhantomJS 2.1 - integration/store/query-record - Query one record with a query hash: When a record is requested, the adapter's queryRecord method should be called.
+ok 882 PhantomJS 2.1 - integration/store/query-record - Query one record with a query hash: When a record is requested, and the promise is rejected, .queryRecord() is rejected.
+ok 883 PhantomJS 2.1 - integration/store/query-record - Query one record with a query hash: When a record is requested, the serializer's normalizeQueryRecordResponse method should be called.
+ok 884 PhantomJS 2.1 - JSCS - integration/store: integration/store/query-record-test.js should pass jscs
+ok 885 PhantomJS 2.1 - JSHint - integration/store: integration/store/query-record-test.js should pass jshint
+ok 886 PhantomJS 2.1 - integration/store - destroy: destroying record during find doesn't cause error
+ok 887 PhantomJS 2.1 - integration/store - destroy: find calls do not resolve when the store is destroyed
+ok 888 PhantomJS 2.1 - integration/store - destroy: destroying the store correctly cleans everything up
+ok 889 PhantomJS 2.1 - integration/store - findRecord: store#findRecord fetches record from server when cached record is not present
+ok 890 PhantomJS 2.1 - integration/store - findRecord: store#findRecord returns cached record immediately and reloads record in the background
+ok 891 PhantomJS 2.1 - integration/store - findRecord: store#findRecord { reload: true } ignores cached record and reloads record from server
+ok 892 PhantomJS 2.1 - integration/store - findRecord: store#findRecord call with `id` of type different than non-empty string or number should trigger an assertion
+ok 893 PhantomJS 2.1 - integration/store - findAll: Using store#findAll with no records triggers a query
+ok 894 PhantomJS 2.1 - integration/store - findAll: Using store#findAll with existing records performs a query in the background, updating existing records and returning new ones
+ok 895 PhantomJS 2.1 - integration/store - findAll: store#findAll should eventually return all known records even if they are not in the adapter response
+ok 896 PhantomJS 2.1 - integration/store - findAll: Using store#fetch on an empty record calls find
+ok 897 PhantomJS 2.1 - integration/store - findAll: Using store#adapterFor should not throw an error when looking up the application adapter
+ok 898 PhantomJS 2.1 - integration/store - findAll: Using store#serializerFor should not throw an error when looking up the application serializer
+ok 899 PhantomJS 2.1 - integration/store - deleteRecord: Using store#deleteRecord should mark the model for removal
+ok 900 PhantomJS 2.1 - integration/store - deleteRecord: Store should accept a null value for `data`
+ok 901 PhantomJS 2.1 - integration/store - deleteRecord: store#findRecord that returns an array should assert
+ok 902 PhantomJS 2.1 - JSCS - integration: integration/store-test.js should pass jscs
+ok 903 PhantomJS 2.1 - JSHint - integration: integration/store-test.js should pass jshint
+ok 904 PhantomJS 2.1 - JSCS - .: router.js should pass jscs
+ok 905 PhantomJS 2.1 - JSHint - .: router.js should pass jshint
+ok 906 PhantomJS 2.1 - JSCS - .: test-helper.js should pass jscs
+ok 907 PhantomJS 2.1 - JSHint - .: test-helper.js should pass jshint
+ok 908 PhantomJS 2.1 - unit/adapter-errors - DS.AdapterError: DS.AdapterError
+ok 909 PhantomJS 2.1 - unit/adapter-errors - DS.AdapterError: DS.InvalidError
+ok 910 PhantomJS 2.1 - unit/adapter-errors - DS.AdapterError: DS.TimeoutError
+ok 911 PhantomJS 2.1 - unit/adapter-errors - DS.AdapterError: DS.AbortError
+ok 912 PhantomJS 2.1 - unit/adapter-errors - DS.AdapterError: errorsHashToArray
+ok 913 PhantomJS 2.1 - unit/adapter-errors - DS.AdapterError: errorsHashToArray for primary data object
+ok 914 PhantomJS 2.1 - unit/adapter-errors - DS.AdapterError: errorsArrayToHash
+ok 915 PhantomJS 2.1 - unit/adapter-errors - DS.AdapterError: errorsArrayToHash without trailing slash
+ok 916 PhantomJS 2.1 - unit/adapter-errors - DS.AdapterError: errorsArrayToHash for primary data object
+ok 917 PhantomJS 2.1 - unit/adapter-errors - DS.AdapterError: DS.InvalidError will normalize errors hash will assert
+ok 918 PhantomJS 2.1 - JSCS - unit: unit/adapter-errors-test.js should pass jscs
+ok 919 PhantomJS 2.1 - JSHint - unit: unit/adapter-errors-test.js should pass jshint
+ok 920 PhantomJS 2.1 - unit/adapter_populated_record_array - DS.AdapterPopulatedRecordArray: when a record is deleted in an adapter populated record array, it should be removed
+ok 921 PhantomJS 2.1 - unit/adapter_populated_record_array - DS.AdapterPopulatedRecordArray: stores the metadata off the payload
+ok 922 PhantomJS 2.1 - unit/adapter_populated_record_array - DS.AdapterPopulatedRecordArray: recordArray.replace() throws error
+ok 923 PhantomJS 2.1 - unit/adapter_populated_record_array - DS.AdapterPopulatedRecordArray: when an adapter populated record gets updated the array contents are also updated
+ok 924 PhantomJS 2.1 - JSCS - unit: unit/adapter-populated-record-array-test.js should pass jscs
+ok 925 PhantomJS 2.1 - JSHint - unit: unit/adapter-populated-record-array-test.js should pass jshint
+ok 926 PhantomJS 2.1 - unit/adapters/build-url-mixin/build-url - DS.BuildURLMixin#buildURL: buildURL - works with empty paths
+ok 927 PhantomJS 2.1 - unit/adapters/build-url-mixin/build-url - DS.BuildURLMixin#buildURL: buildURL - find requestType delegates to urlForFindRecord
+ok 928 PhantomJS 2.1 - unit/adapters/build-url-mixin/build-url - DS.BuildURLMixin#buildURL: buildURL - findAll requestType delegates to urlForFindAll
+ok 929 PhantomJS 2.1 - unit/adapters/build-url-mixin/build-url - DS.BuildURLMixin#buildURL: buildURL - query requestType delegates to urlForQuery
+ok 930 PhantomJS 2.1 - unit/adapters/build-url-mixin/build-url - DS.BuildURLMixin#buildURL: buildURL - queryRecord requestType delegates to urlForQueryRecord
+ok 931 PhantomJS 2.1 - unit/adapters/build-url-mixin/build-url - DS.BuildURLMixin#buildURL: buildURL - findMany requestType delegates to urlForFindMany
+ok 932 PhantomJS 2.1 - unit/adapters/build-url-mixin/build-url - DS.BuildURLMixin#buildURL: buildURL - findHasMany requestType delegates to urlForFindHasMany
+ok 933 PhantomJS 2.1 - unit/adapters/build-url-mixin/build-url - DS.BuildURLMixin#buildURL: buildURL - findBelongsTo requestType delegates to urlForFindBelongsTo
+ok 934 PhantomJS 2.1 - unit/adapters/build-url-mixin/build-url - DS.BuildURLMixin#buildURL: buildURL - createRecord requestType delegates to urlForCreateRecord
+ok 935 PhantomJS 2.1 - unit/adapters/build-url-mixin/build-url - DS.BuildURLMixin#buildURL: buildURL - updateRecord requestType delegates to urlForUpdateRecord
+ok 936 PhantomJS 2.1 - unit/adapters/build-url-mixin/build-url - DS.BuildURLMixin#buildURL: buildURL - deleteRecord requestType delegates to urlForDeleteRecord
+ok 937 PhantomJS 2.1 - unit/adapters/build-url-mixin/build-url - DS.BuildURLMixin#buildURL: buildURL - unknown requestType
+ok 938 PhantomJS 2.1 - JSCS - unit/adapters/build-url-mixin: unit/adapters/build-url-mixin/build-url-test.js should pass jscs
+ok 939 PhantomJS 2.1 - JSHint - unit/adapters/build-url-mixin: unit/adapters/build-url-mixin/build-url-test.js should pass jshint
+ok 940 PhantomJS 2.1 - unit/adapters/build-url-mixin/path-for-type - DS.BuildURLMixin#pathForType: pathForType - works with camelized types
+ok 941 PhantomJS 2.1 - unit/adapters/build-url-mixin/path-for-type - DS.BuildURLMixin#pathForType: pathForType - works with dasherized types
+ok 942 PhantomJS 2.1 - unit/adapters/build-url-mixin/path-for-type - DS.BuildURLMixin#pathForType: pathForType - works with underscored types
+ok 943 PhantomJS 2.1 - JSCS - unit/adapters/build-url-mixin: unit/adapters/build-url-mixin/path-for-type-test.js should pass jscs
+ok 944 PhantomJS 2.1 - JSHint - unit/adapters/build-url-mixin: unit/adapters/build-url-mixin/path-for-type-test.js should pass jshint
+ok 945 PhantomJS 2.1 - unit/adapters/json-api-adapter/ajax - building requests: ajaxOptions() adds Accept when no other headers exist
+ok 946 PhantomJS 2.1 - unit/adapters/json-api-adapter/ajax - building requests: ajaxOptions() adds Accept header to existing headers
+ok 947 PhantomJS 2.1 - unit/adapters/json-api-adapter/ajax - building requests: ajaxOptions() adds Accept header to existing computed properties headers
+ok 948 PhantomJS 2.1 - JSCS - unit/adapters/json-api-adapter: unit/adapters/json-api-adapter/ajax-test.js should pass jscs
+ok 949 PhantomJS 2.1 - JSHint - unit/adapters/json-api-adapter: unit/adapters/json-api-adapter/ajax-test.js should pass jshint
+ok 950 PhantomJS 2.1 - unit/adapters/rest-adapter/ajax - building requests: When an id is searched, the correct url should be generated
+ok 951 PhantomJS 2.1 - unit/adapters/rest-adapter/ajax - building requests: id's should be sanatized
+ok 952 PhantomJS 2.1 - unit/adapters/rest-adapter/ajax - building requests: ajaxOptions() headers are set
+ok 953 PhantomJS 2.1 - unit/adapters/rest-adapter/ajax - building requests: ajaxOptions() do not serializes data when GET
+ok 954 PhantomJS 2.1 - unit/adapters/rest-adapter/ajax - building requests: ajaxOptions() serializes data when not GET
+ok 955 PhantomJS 2.1 - unit/adapters/rest-adapter/ajax - building requests: ajaxOptions() empty data
+ok 956 PhantomJS 2.1 - JSCS - unit/adapters/rest-adapter: unit/adapters/rest-adapter/ajax-test.js should pass jscs
+ok 957 PhantomJS 2.1 - JSHint - unit/adapters/rest-adapter: unit/adapters/rest-adapter/ajax-test.js should pass jshint
+ok 958 PhantomJS 2.1 - unit/adapters/rest-adapter/build-query - building queries: buildQuery() returns an empty query when snapshot has no query params
+ok 959 PhantomJS 2.1 - JSCS - unit/adapters/rest-adapter: unit/adapters/rest-adapter/build-query-test.js should pass jscs
+ok 960 PhantomJS 2.1 - JSHint - unit/adapters/rest-adapter: unit/adapters/rest-adapter/build-query-test.js should pass jshint
+ok 961 PhantomJS 2.1 - unit/adapters/rest_adapter/detailed_message_test - DS.RESTAdapter#generatedDetailedMessage: generating a wonderfully friendly error message should work
+ok 962 PhantomJS 2.1 - unit/adapters/rest_adapter/detailed_message_test - DS.RESTAdapter#generatedDetailedMessage: generating a friendly error message with a missing content-type header should work
+ok 963 PhantomJS 2.1 - JSCS - unit/adapters/rest-adapter: unit/adapters/rest-adapter/detailed-message-test.js should pass jscs
+ok 964 PhantomJS 2.1 - JSHint - unit/adapters/rest-adapter: unit/adapters/rest-adapter/detailed-message-test.js should pass jshint
+ok 965 PhantomJS 2.1 - unit/adapters/rest_adapter/group_records_for_find_many_test - DS.RESTAdapter#groupRecordsForFindMany: groupRecordsForFindMany - findMany
+ok 966 PhantomJS 2.1 - JSCS - unit/adapters/rest-adapter: unit/adapters/rest-adapter/group-records-for-find-many-test.js should pass jscs
+ok 967 PhantomJS 2.1 - JSHint - unit/adapters/rest-adapter: unit/adapters/rest-adapter/group-records-for-find-many-test.js should pass jshint
+ok 968 PhantomJS 2.1 - Debug: _debugInfo groups the attributes and relationships correctly
+ok 969 PhantomJS 2.1 - JSCS - unit: unit/debug-test.js should pass jscs
+ok 970 PhantomJS 2.1 - JSHint - unit: unit/debug-test.js should pass jshint
+ok 971 PhantomJS 2.1 - unit/many_array - DS.ManyArray: manyArray.save() calls save() on all records
+ok 972 PhantomJS 2.1 - unit/many_array - DS.ManyArray: manyArray trigger arrayContentChange functions with the correct values
+ok 973 PhantomJS 2.1 - JSCS - unit: unit/many-array-test.js should pass jscs
+ok 974 PhantomJS 2.1 - JSHint - unit: unit/many-array-test.js should pass jshint
+ok 975 PhantomJS 2.1 - unit/model/errors: add error
+ok 976 PhantomJS 2.1 - unit/model/errors: get error
+ok 977 PhantomJS 2.1 - unit/model/errors: remove error
+ok 978 PhantomJS 2.1 - unit/model/errors: remove same errors from different attributes
+ok 979 PhantomJS 2.1 - unit/model/errors: clear errors
+ok 980 PhantomJS 2.1 - JSCS - unit/model: unit/model/errors-test.js should pass jscs
+ok 981 PhantomJS 2.1 - JSHint - unit/model: unit/model/errors-test.js should pass jshint
+ok 982 PhantomJS 2.1 - unit/model/internal-model - Internal Model: Materializing a model twice errors out
+ok 983 PhantomJS 2.1 - JSCS - unit/model: unit/model/internal-model-test.js should pass jscs
+ok 984 PhantomJS 2.1 - JSHint - unit/model: unit/model/internal-model-test.js should pass jshint
+ok 985 PhantomJS 2.1 - unit/model/lifecycle_callbacks - Lifecycle Callbacks: a record receives a didLoad callback when it has finished loading
+ok 986 PhantomJS 2.1 - unit/model/lifecycle_callbacks - Lifecycle Callbacks: TEMPORARY: a record receives a didLoad callback once it materializes if it wasn't materialized when loaded
+ok 987 PhantomJS 2.1 - unit/model/lifecycle_callbacks - Lifecycle Callbacks: a record receives a didUpdate callback when it has finished updating
+ok 988 PhantomJS 2.1 - unit/model/lifecycle_callbacks - Lifecycle Callbacks: a record receives a didCreate callback when it has finished updating
+ok 989 PhantomJS 2.1 - unit/model/lifecycle_callbacks - Lifecycle Callbacks: a record receives a didDelete callback when it has finished deleting
+ok 990 PhantomJS 2.1 - unit/model/lifecycle_callbacks - Lifecycle Callbacks: an uncommited record also receives a didDelete callback when it is deleted
+ok 991 PhantomJS 2.1 - unit/model/lifecycle_callbacks - Lifecycle Callbacks: a record receives a becameInvalid callback when it became invalid
+ok 992 PhantomJS 2.1 - unit/model/lifecycle_callbacks - Lifecycle Callbacks: an ID of 0 is allowed
+ok 993 PhantomJS 2.1 - JSCS - unit/model: unit/model/lifecycle-callbacks-test.js should pass jscs
+ok 994 PhantomJS 2.1 - JSHint - unit/model: unit/model/lifecycle-callbacks-test.js should pass jshint
+ok 995 PhantomJS 2.1 - unit/model/merge - Merging: When a record is in flight, changes can be made
+ok 996 PhantomJS 2.1 - unit/model/merge - Merging: Make sure snapshot is created at save time not at flush time
+ok 997 PhantomJS 2.1 - unit/model/merge - Merging: When a record is in flight, pushes are applied underneath the in flight changes
+ok 998 PhantomJS 2.1 - unit/model/merge - Merging: When a record is dirty, pushes are overridden by local changes
+ok 999 PhantomJS 2.1 - unit/model/merge - Merging: When a record is invalid, pushes are overridden by local changes
+ok 1000 PhantomJS 2.1 - unit/model/merge - Merging: A record with no changes can still be saved
+ok 1001 PhantomJS 2.1 - unit/model/merge - Merging: A dirty record can be reloaded
+ok 1002 PhantomJS 2.1 - JSCS - unit/model: unit/model/merge-test.js should pass jscs
+ok 1003 PhantomJS 2.1 - JSHint - unit/model: unit/model/merge-test.js should pass jshint
+ok 1004 PhantomJS 2.1 - unit/model/relationships - DS.belongsTo: belongsTo lazily loads relationships as needed
+ok 1005 PhantomJS 2.1 - unit/model/relationships - DS.belongsTo: async belongsTo relationships work when the data hash has not been loaded
+ok 1006 PhantomJS 2.1 - unit/model/relationships - DS.belongsTo: async belongsTo relationships work when the data hash has already been loaded
+ok 1007 PhantomJS 2.1 - unit/model/relationships - DS.belongsTo: calling createRecord and passing in an undefined value for a relationship should be treated as if null
+ok 1008 PhantomJS 2.1 - unit/model/relationships - DS.belongsTo: When finding a hasMany relationship the inverse belongsTo relationship is available immediately
+ok 1009 PhantomJS 2.1 - unit/model/relationships - DS.belongsTo: When finding a belongsTo relationship the inverse belongsTo relationship is available immediately
+ok 1010 PhantomJS 2.1 - unit/model/relationships - DS.belongsTo: belongsTo supports relationships to models with id 0
+ok 1011 PhantomJS 2.1 - unit/model/relationships - DS.belongsTo: belongsTo gives a warning when provided with a serialize option
+ok 1012 PhantomJS 2.1 - unit/model/relationships - DS.belongsTo: belongsTo gives a warning when provided with an embedded option
+ok 1013 PhantomJS 2.1 - unit/model/relationships - DS.belongsTo: DS.belongsTo should be async by default
+ok 1014 PhantomJS 2.1 - JSCS - unit/model/relationships: unit/model/relationships/belongs-to-test.js should pass jscs
+ok 1015 PhantomJS 2.1 - JSHint - unit/model/relationships: unit/model/relationships/belongs-to-test.js should pass jshint
+ok 1016 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: hasMany handles pre-loaded relationships
+ok 1017 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: hasMany lazily loads async relationships
+ok 1018 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: should be able to retrieve the type for a hasMany relationship without specifying a type from its metadata
+ok 1019 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: should be able to retrieve the type for a hasMany relationship specified using a string from its metadata
+ok 1020 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: should be able to retrieve the type for a belongsTo relationship without specifying a type from its metadata
+ok 1021 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: should be able to retrieve the type for a belongsTo relationship specified using a string from its metadata
+ok 1022 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: relationships work when declared with a string path
+ok 1023 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: hasMany relationships work when the data hash has not been loaded
+ok 1024 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: it is possible to add a new item to a relationship
+ok 1025 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: possible to replace items in a relationship using setObjects w/ Ember Enumerable Array/Object as the argument (GH-2533)
+ok 1026 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: it is possible to remove an item from a relationship
+ok 1027 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: it is possible to add an item to a relationship, remove it, then add it again
+ok 1028 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: DS.hasMany is async by default
+ok 1029 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: throws assertion if of not set with an array
+ok 1030 PhantomJS 2.1 - unit/model/relationships - DS.hasMany: checks if passed array only contains instances of DS.Model
+ok 1031 PhantomJS 2.1 - JSCS - unit/model/relationships: unit/model/relationships/has-many-test.js should pass jscs
+ok 1032 PhantomJS 2.1 - JSHint - unit/model/relationships: unit/model/relationships/has-many-test.js should pass jshint
+ok 1033 PhantomJS 2.1 - unit/model/relationships - RecordArray: updating the content of a RecordArray updates its content
+ok 1034 PhantomJS 2.1 - unit/model/relationships - RecordArray: can create child record from a hasMany relationship
+ok 1035 PhantomJS 2.1 - JSCS - unit/model/relationships: unit/model/relationships/record-array-test.js should pass jscs
+ok 1036 PhantomJS 2.1 - JSHint - unit/model/relationships: unit/model/relationships/record-array-test.js should pass jshint
+ok 1037 PhantomJS 2.1 - unit/model/relationships - DS.Model: exposes a hash of the relationships on a model
+ok 1038 PhantomJS 2.1 - unit/model/relationships - DS.Model: relationshipNames a hash of the relationships on a model with type as a key
+ok 1039 PhantomJS 2.1 - unit/model/relationships - DS.Model: eachRelatedType() iterates over relations without duplication
+ok 1040 PhantomJS 2.1 - JSCS - unit/model: unit/model/relationships-test.js should pass jscs
+ok 1041 PhantomJS 2.1 - JSHint - unit/model: unit/model/relationships-test.js should pass jshint
+ok 1042 PhantomJS 2.1 - unit/model/rollbackAttributes - model.rollbackAttributes(): changes to attributes can be rolled back
+ok 1043 PhantomJS 2.1 - unit/model/rollbackAttributes - model.rollbackAttributes(): changes to unassigned attributes can be rolled back
+ok 1044 PhantomJS 2.1 - unit/model/rollbackAttributes - model.rollbackAttributes(): changes to attributes made after a record is in-flight only rolls back the local changes
+ok 1045 PhantomJS 2.1 - unit/model/rollbackAttributes - model.rollbackAttributes(): a record's changes can be made if it fails to save
+ok 1046 PhantomJS 2.1 - unit/model/rollbackAttributes - model.rollbackAttributes(): a deleted record's attributes can be rollbacked if it fails to save, record arrays are updated accordingly
+ok 1047 PhantomJS 2.1 - unit/model/rollbackAttributes - model.rollbackAttributes(): new record's attributes can be rollbacked
+ok 1048 PhantomJS 2.1 - unit/model/rollbackAttributes - model.rollbackAttributes(): invalid new record's attributes can be rollbacked
+ok 1049 PhantomJS 2.1 - unit/model/rollbackAttributes - model.rollbackAttributes(): invalid record's attributes can be rollbacked after multiple failed calls - #3677
+ok 1050 PhantomJS 2.1 - unit/model/rollbackAttributes - model.rollbackAttributes(): deleted record's attributes can be rollbacked
+ok 1051 PhantomJS 2.1 - unit/model/rollbackAttributes - model.rollbackAttributes(): invalid record's attributes can be rollbacked
+ok 1052 PhantomJS 2.1 - unit/model/rollbackAttributes - model.rollbackAttributes(): invalid record's attributes rolled back to correct state after set
+ok 1053 PhantomJS 2.1 - unit/model/rollbackAttributes - model.rollbackAttributes(): when destroying a record setup the record state to invalid, the record's attributes can be rollbacked
+ok 1054 PhantomJS 2.1 - JSCS - unit/model: unit/model/rollback-attributes-test.js should pass jscs
+ok 1055 PhantomJS 2.1 - JSHint - unit/model: unit/model/rollback-attributes-test.js should pass jshint
+ok 1056 PhantomJS 2.1 - unit/model - DS.Model: can have a property set on it
+ok 1057 PhantomJS 2.1 - unit/model - DS.Model: setting a property on a record that has not changed does not cause it to become dirty
+ok 1058 PhantomJS 2.1 - unit/model - DS.Model: resetting a property on a record cause it to become clean again
+ok 1059 PhantomJS 2.1 - unit/model - DS.Model: a record becomes clean again only if all changed properties are reset
+ok 1060 PhantomJS 2.1 - unit/model - DS.Model: a record reports its unique id via the `id` property
+ok 1061 PhantomJS 2.1 - unit/model - DS.Model: a record's id is included in its toString representation
+ok 1062 PhantomJS 2.1 - unit/model - DS.Model: trying to set an `id` attribute should raise
+ok 1063 PhantomJS 2.1 - unit/model - DS.Model: a collision of a record's id with object function's name
+ok 1064 PhantomJS 2.1 - unit/model - DS.Model: it should cache attributes
+ok 1065 PhantomJS 2.1 - unit/model - DS.Model: changedAttributes() return correct values
+ok 1066 PhantomJS 2.1 - unit/model - DS.Model: changedAttributes() works while the record is being saved
+ok 1067 PhantomJS 2.1 - unit/model - DS.Model: changedAttributes() works while the record is being updated
+ok 1068 PhantomJS 2.1 - unit/model - DS.Model: a DS.Model does not require an attribute type
+ok 1069 PhantomJS 2.1 - unit/model - DS.Model: a DS.Model can have a defaultValue without an attribute type
+ok 1070 PhantomJS 2.1 - unit/model - DS.Model: Calling attr() throws a warning
+ok 1071 PhantomJS 2.1 - unit/model - DS.Model: Calling belongsTo() throws a warning
+ok 1072 PhantomJS 2.1 - unit/model - DS.Model: Calling hasMany() throws a warning
+ok 1073 PhantomJS 2.1 - unit/model - DS.Model: supports pushedData in root.deleted.uncommitted
+ok 1074 PhantomJS 2.1 - unit/model - DS.Model: currentState is accessible when the record is created
+ok 1075 PhantomJS 2.1 - unit/model - DS.Model updating: a DS.Model can update its attributes
+ok 1076 PhantomJS 2.1 - unit/model - DS.Model updating: a DS.Model can have a defaultValue
+ok 1077 PhantomJS 2.1 - unit/model - DS.Model updating: a DS.model can define 'setUnknownProperty'
+ok 1078 PhantomJS 2.1 - unit/model - DS.Model updating: a defaultValue for an attribute can be a function
+ok 1079 PhantomJS 2.1 - unit/model - DS.Model updating: a defaultValue function gets the record, options, and key
+ok 1080 PhantomJS 2.1 - unit/model - DS.Model updating: a complex object defaultValue is deprecated
+ok 1081 PhantomJS 2.1 - unit/model - DS.Model updating: a null defaultValue is not deprecated
+ok 1082 PhantomJS 2.1 - unit/model - DS.Model updating: setting a property to undefined on a newly created record should not impact the current state
+ok 1083 PhantomJS 2.1 - unit/model - DS.Model updating: setting a property back to its original value removes the property from the `_attributes` hash
+ok 1084 PhantomJS 2.1 - unit/model - with a simple Person model: can ask if record with a given id is loaded
+ok 1085 PhantomJS 2.1 - unit/model - with a simple Person model: a listener can be added to a record
+ok 1086 PhantomJS 2.1 - unit/model - with a simple Person model: when an event is triggered on a record the method with the same name is invoked with arguments
+ok 1087 PhantomJS 2.1 - unit/model - with a simple Person model: when a method is invoked from an event with the same name the arguments are passed through
+ok 1088 PhantomJS 2.1 - unit/model - with a simple Person model: a DS.Model can describe String attributes
+ok 1089 PhantomJS 2.1 - unit/model - with a simple Person model: a DS.Model can describe Number attributes
+ok 1090 PhantomJS 2.1 - unit/model - with a simple Person model: a DS.Model can describe Boolean attributes
+ok 1091 PhantomJS 2.1 - unit/model - with a simple Person model: a DS.Model can describe Date attributes
+ok 1092 PhantomJS 2.1 - unit/model - with a simple Person model: don't allow setting
+ok 1093 PhantomJS 2.1 - unit/model - with a simple Person model: ensure model exits loading state, materializes data and fulfills promise only after data is available
+ok 1094 PhantomJS 2.1 - unit/model - with a simple Person model: A DS.Model can be JSONified
+ok 1095 PhantomJS 2.1 - unit/model - with a simple Person model: A subclass of DS.Model can not use the `data` property
+ok 1096 PhantomJS 2.1 - unit/model - with a simple Person model: A subclass of DS.Model can not use the `store` property
+ok 1097 PhantomJS 2.1 - unit/model - with a simple Person model: A subclass of DS.Model can not use reserved properties
+ok 1098 PhantomJS 2.1 - unit/model - with a simple Person model: Pushing a record into the store should transition it to the loaded state
+ok 1099 PhantomJS 2.1 - unit/model - with a simple Person model: A subclass of DS.Model throws an error when calling create() directly
+ok 1100 PhantomJS 2.1 - unit/model - with a simple Person model: toJSON looks up the JSONSerializer using the store instead of using JSONSerializer.create
+ok 1101 PhantomJS 2.1 - unit/model - with a simple Person model: accessing attributes in the initializer should not throw an error
+ok 1102 PhantomJS 2.1 - unit/model - with a simple Person model: setting the id after model creation should correctly update the id
+ok 1103 PhantomJS 2.1 - unit/model - with a simple Person model: updating the id with store.updateId should correctly when the id property is watched
+ok 1104 PhantomJS 2.1 - unit/model - with a simple Person model: accessing the model id without the get function should work when id is watched
+ok 1105 PhantomJS 2.1 - JSCS - unit: unit/model-test.js should pass jscs
+ok 1106 PhantomJS 2.1 - JSHint - unit: unit/model-test.js should pass jshint
+ok 1107 PhantomJS 2.1 - PromiseManyArray: .reload should NOT leak the internal promise, rather return another promiseArray
+ok 1108 PhantomJS 2.1 - JSCS - unit: unit/promise-proxies-test.js should pass jscs
+ok 1109 PhantomJS 2.1 - JSHint - unit: unit/promise-proxies-test.js should pass jshint
+ok 1110 PhantomJS 2.1 - unit/record_array - DS.RecordArray: a record array is backed by records
+ok 1111 PhantomJS 2.1 - unit/record_array - DS.RecordArray: acts as a live query
+ok 1112 PhantomJS 2.1 - unit/record_array - DS.RecordArray: stops updating when destroyed
+ok 1113 PhantomJS 2.1 - unit/record_array - DS.RecordArray: a loaded record is removed from a record array when it is deleted
+ok 1114 PhantomJS 2.1 - unit/record_array - DS.RecordArray: a loaded record is not removed from a record array when it is deleted even if the belongsTo side isn't defined
+ok 1115 PhantomJS 2.1 - unit/record_array - DS.RecordArray: a loaded record is not removed from both the record array and from the belongs to, even if the belongsTo side isn't defined
+ok 1116 PhantomJS 2.1 - unit/record_array - DS.RecordArray: a newly created record is removed from a record array when it is deleted
+ok 1117 PhantomJS 2.1 - unit/record_array - DS.RecordArray: a record array returns undefined when asking for a member outside of its content Array's range
+ok 1118 PhantomJS 2.1 - unit/record_array - DS.RecordArray: a record array should be able to be enumerated in any order
+ok 1119 PhantomJS 2.1 - unit/record_array - DS.RecordArray: an AdapterPopulatedRecordArray knows if it's loaded or not
+ok 1120 PhantomJS 2.1 - unit/record_array - DS.RecordArray: a record array should return a promise when updating
+ok 1121 PhantomJS 2.1 - JSCS - unit: unit/record-array-test.js should pass jscs
+ok 1122 PhantomJS 2.1 - JSHint - unit: unit/record-array-test.js should pass jshint
+ok 1123 PhantomJS 2.1 - unit/record-arrays/filtered-record-array - DS.FilteredRecordArray: recordArray.replace() throws error
+ok 1124 PhantomJS 2.1 - JSCS - unit/record-arrays: unit/record-arrays/filtered-record-array-test.js should pass jscs
+ok 1125 PhantomJS 2.1 - JSHint - unit/record-arrays: unit/record-arrays/filtered-record-array-test.js should pass jshint
+ok 1126 PhantomJS 2.1 - unit/states - Flags for record states: the empty state
+ok 1127 PhantomJS 2.1 - unit/states - Flags for record states: the loading state
+ok 1128 PhantomJS 2.1 - unit/states - Flags for record states: the loaded state
+ok 1129 PhantomJS 2.1 - unit/states - Flags for record states: the updated state
+ok 1130 PhantomJS 2.1 - unit/states - Flags for record states: the saving state
+ok 1131 PhantomJS 2.1 - unit/states - Flags for record states: the deleted state
+ok 1132 PhantomJS 2.1 - unit/states - Flags for record states: the deleted.saving state
+ok 1133 PhantomJS 2.1 - unit/states - Flags for record states: the deleted.saved state
+ok 1134 PhantomJS 2.1 - JSCS - unit: unit/states-test.js should pass jscs
+ok 1135 PhantomJS 2.1 - JSHint - unit: unit/states-test.js should pass jshint
+ok 1136 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: Adapter can be set as a factory
+ok 1137 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: Adapter can be set as a name
+ok 1138 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: Adapter can not be set as an instance
+ok 1139 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: Calling Store#find invokes its adapter#find
+ok 1140 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: Calling Store#findRecord multiple times coalesces the calls into a adapter#findMany call
+ok 1141 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: Returning a promise from `findRecord` asynchronously loads data
+ok 1142 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: IDs provided as numbers are coerced to strings
+ok 1143 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: can load data for the same record if it is not dirty
+ok 1144 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: loadMany takes an optional Object and passes it on to the Adapter
+ok 1145 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: Find with query calls the correct normalizeResponse
+ok 1146 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: peekAll(type) returns a record array of all records of a specific type
+ok 1147 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: a new record of a particular type is created via store.createRecord(type)
+ok 1148 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: a new record with a specific id can't be created if this id is already used in the store
+ok 1149 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: an initial data hash can be provided via store.createRecord(type, hash)
+ok 1150 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: if an id is supplied in the initial data hash, it can be looked up using `store.find`
+ok 1151 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: initial values of attributes can be passed in as the third argument to find
+ok 1152 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: initial values of belongsTo can be passed in as the third argument to find as records
+ok 1153 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: initial values of belongsTo can be passed in as the third argument to find as ids
+ok 1154 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: initial values of hasMany can be passed in as the third argument to find as records
+ok 1155 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: initial values of hasMany can be passed in as the third argument to find as ids
+ok 1156 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: records should have their ids updated when the adapter returns the id data
+ok 1157 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store.fetchMany should always return a promise
+ok 1158 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store.scheduleFetchMany should not resolve until all the records are resolved
+ok 1159 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: the store calls adapter.findMany according to groupings returned by adapter.groupRecordsForFindMany
+ok 1160 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: the promise returned by `scheduleFetch`, when it resolves, does not depend on the promises returned to other calls to `scheduleFetch` that are in the same run loop, but different groups
+ok 1161 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: the promise returned by `scheduleFetch`, when it rejects, does not depend on the promises returned to other calls to `scheduleFetch` that are in the same run loop, but different groups
+ok 1162 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store.fetchRecord reject records that were not found, even when those requests were coalesced with records that were found
+ok 1163 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store should not call shouldReloadRecord when the record is not in the store
+ok 1164 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store should not reload record when shouldReloadRecord returns false
+ok 1165 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store should reload record when shouldReloadRecord returns true
+ok 1166 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store should not call shouldBackgroundReloadRecord when the store is already loading the record
+ok 1167 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store should not reload a record when `shouldBackgroundReloadRecord` is false
+ok 1168 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store should reload the record in the background when `shouldBackgroundReloadRecord` is true
+ok 1169 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store should not reload record array when shouldReloadAll returns false
+ok 1170 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store should reload all records when shouldReloadAll returns true
+ok 1171 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store should not call shouldBackgroundReloadAll when the store is already loading all records
+ok 1172 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store should not reload all records when `shouldBackgroundReloadAll` is false
+ok 1173 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store should reload all records in the background when `shouldBackgroundReloadAll` is true
+ok 1174 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: store should assert of the user tries to call store.filter
+ok 1175 PhantomJS 2.1 - unit/store/adapter-interop - DS.Store working with a DS.Adapter: Calling adapterFor with a model class should assert
+ok 1176 PhantomJS 2.1 - JSCS - unit/store: unit/store/adapter-interop-test.js should pass jscs
+ok 1177 PhantomJS 2.1 - JSHint - unit/store: unit/store/adapter-interop-test.js should pass jshint
+ok 1178 PhantomJS 2.1 - unit/store/createRecord - Store creating records: doesn't modify passed in properties hash
+ok 1179 PhantomJS 2.1 - unit/store/createRecord - Store creating records: allow passing relationships as well as attributes
+ok 1180 PhantomJS 2.1 - unit/store/createRecord - Store with models by dash: creating a record by dasherize string finds the model
+ok 1181 PhantomJS 2.1 - JSCS - unit/store: unit/store/create-record-test.js should pass jscs
+ok 1182 PhantomJS 2.1 - JSHint - unit/store: unit/store/create-record-test.js should pass jshint
+ok 1183 PhantomJS 2.1 - unit/store/hasRecordForId - Store hasRecordForId: hasRecordForId should return false for records in the empty state
+ok 1184 PhantomJS 2.1 - unit/store/hasRecordForId - Store hasRecordForId: hasRecordForId should return true for records in the loaded state
+ok 1185 PhantomJS 2.1 - JSCS - unit/store: unit/store/has-record-for-id-test.js should pass jscs
+ok 1186 PhantomJS 2.1 - JSHint - unit/store: unit/store/has-record-for-id-test.js should pass jshint
+ok 1187 PhantomJS 2.1 - unit/store/lookup - Managed Instance lookups: when the adapter does not exist for a type, the fallback is returned
+ok 1188 PhantomJS 2.1 - unit/store/lookup - Managed Instance lookups: when the adapter for a type exists, returns that instead of the fallback
+ok 1189 PhantomJS 2.1 - unit/store/lookup - Managed Instance lookups: when the serializer does not exist for a type, the fallback is returned
+ok 1190 PhantomJS 2.1 - unit/store/lookup - Managed Instance lookups: when the serializer does exist for a type, the serializer is returned
+ok 1191 PhantomJS 2.1 - unit/store/lookup - Managed Instance lookups: adapter lookup order
+ok 1192 PhantomJS 2.1 - unit/store/lookup - Managed Instance lookups: serializer lookup order
+ok 1193 PhantomJS 2.1 - JSCS - unit/store: unit/store/lookup-test.js should pass jscs
+ok 1194 PhantomJS 2.1 - JSHint - unit/store: unit/store/lookup-test.js should pass jshint
+ok 1195 PhantomJS 2.1 - unit/store/model_for - DS.Store#modelFor: when fetching factory from string, sets a normalized key as modelName
+ok 1196 PhantomJS 2.1 - unit/store/model_for - DS.Store#modelFor: when fetching factory from string and dashing normalizer, sets a normalized key as modelName
+ok 1197 PhantomJS 2.1 - unit/store/model_for - DS.Store#modelFor: when fetching something that doesn't exist, throws error
+ok 1198 PhantomJS 2.1 - JSCS - unit/store: unit/store/model-for-test.js should pass jscs
+ok 1199 PhantomJS 2.1 - JSHint - unit/store: unit/store/model-for-test.js should pass jshint
+ok 1200 PhantomJS 2.1 - unit/store/peekRecord - Store peekRecord: peekRecord should return the record if it is in the store
+ok 1201 PhantomJS 2.1 - unit/store/peekRecord - Store peekRecord: peekRecord should return null if the record is not in the store
+ok 1202 PhantomJS 2.1 - JSCS - unit/store: unit/store/peek-record-test.js should pass jscs
+ok 1203 PhantomJS 2.1 - JSHint - unit/store: unit/store/peek-record-test.js should pass jshint
+ok 1204 PhantomJS 2.1 - unit/store/push - DS.Store#push: Changed attributes are reset when matching data is pushed
+ok 1205 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling push with a normalized hash returns a record
+ok 1206 PhantomJS 2.1 - unit/store/push - DS.Store#push: Supplying a model class for `push` is the same as supplying a string
+ok 1207 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling push triggers `didLoad` even if the record hasn't been requested from the adapter
+ok 1208 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling push with partial records updates just those attributes
+ok 1209 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling push on normalize allows partial updates with raw JSON
+ok 1210 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling push with a normalized hash containing IDs of related records returns a record
+ok 1211 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling pushPayload allows pushing raw JSON
+ok 1212 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling pushPayload allows pushing singular payload properties
+ok 1213 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling pushPayload should use the type's serializer for normalizing
+ok 1214 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling pushPayload without a type uses application serializer's pushPayload method
+ok 1215 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling pushPayload without a type should use a model's serializer when normalizing
+ok 1216 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling pushPayload allows partial updates with raw JSON
+ok 1217 PhantomJS 2.1 - unit/store/push - DS.Store#push: calling push without data argument as an object raises an error
+ok 1218 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling push with a link for a non async relationship should warn
+ok 1219 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling push with an unknown model name throws an assertion error
+ok 1220 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling push with a link containing an object
+ok 1221 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling push with a link containing the value null
+ok 1222 PhantomJS 2.1 - unit/store/push - DS.Store#push: calling push with hasMany relationship the value must be an array
+ok 1223 PhantomJS 2.1 - unit/store/push - DS.Store#push: calling push with missing or invalid `id` throws assertion error
+ok 1224 PhantomJS 2.1 - unit/store/push - DS.Store#push: calling push with belongsTo relationship the value must not be an array
+ok 1225 PhantomJS 2.1 - unit/store/push - DS.Store#push: Enabling Ember.ENV.DS_WARN_ON_UNKNOWN_KEYS should warn on unknown keys
+ok 1226 PhantomJS 2.1 - unit/store/push - DS.Store#push: Calling push with unknown keys should not warn by default
+ok 1227 PhantomJS 2.1 - unit/store/push - DS.Store#push with JSON-API: Should support pushing multiple models into the store
+ok 1228 PhantomJS 2.1 - unit/store/push - DS.Store#push with JSON-API: Should support pushing included models into the store
+ok 1229 PhantomJS 2.1 - JSCS - unit/store: unit/store/push-test.js should pass jscs
+ok 1230 PhantomJS 2.1 - JSHint - unit/store: unit/store/push-test.js should pass jshint
+ok 1231 PhantomJS 2.1 - unit/store/serializer_for - DS.Store#serializerFor: Calling serializerFor looks up 'serializer:<type>' from the container
+ok 1232 PhantomJS 2.1 - unit/store/serializer_for - DS.Store#serializerFor: Calling serializerFor with a type that has not been registered looks up the default ApplicationSerializer
+ok 1233 PhantomJS 2.1 - unit/store/serializer_for - DS.Store#serializerFor: Calling serializerFor with a type that has not been registered and in an application that does not have an ApplicationSerializer looks up the default Ember Data serializer
+ok 1234 PhantomJS 2.1 - unit/store/serializer_for - DS.Store#serializerFor: Calling serializerFor with a model class should assert
+ok 1235 PhantomJS 2.1 - JSCS - unit/store: unit/store/serializer-for-test.js should pass jscs
+ok 1236 PhantomJS 2.1 - JSHint - unit/store: unit/store/serializer-for-test.js should pass jshint
+ok 1237 PhantomJS 2.1 - unit/store/unload - Store unloading records: unload a dirty record
+ok 1238 PhantomJS 2.1 - unit/store/unload - Store unloading records: unload a record
+ok 1239 PhantomJS 2.1 - DS.Store - unload record with relationships: can commit store after unload record with relationships
+ok 1240 PhantomJS 2.1 - JSCS - unit/store: unit/store/unload-test.js should pass jscs
+ok 1241 PhantomJS 2.1 - JSHint - unit/store: unit/store/unload-test.js should pass jshint
+ok 1242 PhantomJS 2.1 - unit/transform - DS.BooleanTransform: #serialize
+ok 1243 PhantomJS 2.1 - unit/transform - DS.BooleanTransform: #deserialize
+ok 1244 PhantomJS 2.1 - JSCS - unit/transform: unit/transform/boolean-test.js should pass jscs
+ok 1245 PhantomJS 2.1 - JSHint - unit/transform: unit/transform/boolean-test.js should pass jshint
+ok 1246 PhantomJS 2.1 - unit/transform - DS.DateTransform: #serialize
+ok 1247 PhantomJS 2.1 - unit/transform - DS.DateTransform: #deserialize
+ok 1248 PhantomJS 2.1 - JSCS - unit/transform: unit/transform/date-test.js should pass jscs
+ok 1249 PhantomJS 2.1 - JSHint - unit/transform: unit/transform/date-test.js should pass jshint
+ok 1250 PhantomJS 2.1 - unit/transform - DS.NumberTransform: #serialize
+ok 1251 PhantomJS 2.1 - unit/transform - DS.NumberTransform: #deserialize
+ok 1252 PhantomJS 2.1 - JSCS - unit/transform: unit/transform/number-test.js should pass jscs
+ok 1253 PhantomJS 2.1 - JSHint - unit/transform: unit/transform/number-test.js should pass jshint
+ok 1254 PhantomJS 2.1 - unit/transform - DS.StringTransform: #serialize
+ok 1255 PhantomJS 2.1 - unit/transform - DS.StringTransform: #deserialize
+ok 1256 PhantomJS 2.1 - JSCS - unit/transform: unit/transform/string-test.js should pass jscs
+ok 1257 PhantomJS 2.1 - JSHint - unit/transform: unit/transform/string-test.js should pass jshint
+ok 1258 PhantomJS 2.1 - unit/utils: assertPolymorphicType works for subclasses
+ok 1259 PhantomJS 2.1 - unit/utils: modelHasAttributeOrRelationshipNamedType
+ok 1260 PhantomJS 2.1 - unit/utils: assertPolymorphicType works for mixins
+ok 1261 PhantomJS 2.1 - JSCS - unit: unit/utils-test.js should pass jscs
+ok 1262 PhantomJS 2.1 - JSHint - unit: unit/utils-test.js should pass jshint
+
+1..1262
+# tests 1262
+# pass  1259
+# fail  3
