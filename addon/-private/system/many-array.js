@@ -78,11 +78,16 @@ export default Ember.Object.extend(Ember.MutableArray, Ember.Evented, {
 
     //a hack for not removing new records
     //TODO remove once we have proper diffing
+		var newRecords = this.currentState.filter(
+			(internalModel) => internalModel.isNew() && toSet.indexOf(internalModel) === -1
+		);
     var newRecords = this.currentState.filter((internalModel) => internalModel.isNew());
     toSet = toSet.concat(newRecords);
-    var oldLength = this.length;
+    var oldLength = this.length || 0;
     this.arrayContentWillChange(0, this.length, toSet.length);
-    this.set('length', toSet.length);
+		if (!this.isDestroyed) {
+			this.set('length', toSet.length);
+		}
     this.currentState = toSet;
     this.arrayContentDidChange(0, oldLength, this.length);
     //TODO Figure out to notify only on additions and maybe only if unloaded
