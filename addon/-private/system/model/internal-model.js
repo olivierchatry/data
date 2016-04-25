@@ -223,7 +223,10 @@ InternalModel.prototype = {
 
   setupData(data) {
     var changedKeys = this._changedKeys(data.attributes);
-    assign(this._data, data.attributes);
+    for (let i = 0, l = changedKeys.length; i < l; i++) {
+      let prop = changedKeys[i];
+      this._data[prop] = data.attributes[prop];
+    }
     this.pushedData();
     if (this.record) {
       this.record._notifyProperties(changedKeys);
